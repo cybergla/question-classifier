@@ -1,0 +1,6983 @@
+(lp0
+(dp1
+S'ques'
+p2
+S'How did serfdom develop in and then leave Russia ?'
+p3
+sS'label'
+p4
+S'Unknown'
+p5
+sa(dp6
+g2
+S'What films featured the character Popeye Doyle ?'
+p7
+sg4
+S'What'
+p8
+sa(dp9
+g2
+S"How can I find a list of celebrities ' real names ?"
+p10
+sg4
+g5
+sa(dp11
+g2
+S'What fowl grabs the spotlight after the Chinese Year of the Monkey ?'
+p12
+sg4
+S'What'
+p13
+sa(dp14
+g2
+S'What is the full form of .com ?'
+p15
+sg4
+S'What'
+p16
+sa(dp17
+g2
+S'What contemptible scoundrel stole the cork from my lunch ?'
+p18
+sg4
+S'Who'
+p19
+sa(dp20
+g2
+S"What team did baseball 's St. Louis Browns become ?"
+p21
+sg4
+S'What'
+p22
+sa(dp23
+g2
+S'What is the oldest profession ?'
+p24
+sg4
+S'What'
+p25
+sa(dp26
+g2
+S'What are liver enzymes ?'
+p27
+sg4
+S'What'
+p28
+sa(dp29
+g2
+S'Name the scar-faced bounty hunter of The Old West .'
+p30
+sg4
+g19
+sa(dp31
+g2
+S'When was Ozzy Osbourne born ?'
+p32
+sg4
+S'When'
+p33
+sa(dp34
+g2
+S'Why do heavier objects travel downhill faster ?'
+p35
+sg4
+S'Unknown'
+p36
+sa(dp37
+g2
+S'Who was The Pride of the Yankees ?'
+p38
+sg4
+g19
+sa(dp39
+g2
+S'Who killed Gandhi ?'
+p40
+sg4
+g19
+sa(dp41
+g2
+S'What is considered the costliest disaster the insurance industry has ever faced ?'
+p42
+sg4
+S'What'
+p43
+sa(dp44
+g2
+S'What sprawling U.S. state boasts the most airports ?'
+p45
+sg4
+S'What'
+p46
+sa(dp47
+g2
+S'What did the only repealed amendment to the U.S. Constitution deal with ?'
+p48
+sg4
+S'What'
+p49
+sa(dp50
+g2
+S'How many Jews were executed in concentration camps during WWII ?'
+p51
+sg4
+S'What'
+p52
+sa(dp53
+g2
+S"What is `` Nine Inch Nails '' ?"
+p54
+sg4
+g28
+sa(dp55
+g2
+S'What is an annotated bibliography ?'
+p56
+sg4
+g28
+sa(dp57
+g2
+S'What is the date of Boxing Day ?'
+p58
+sg4
+g33
+sa(dp59
+g2
+S'What articles of clothing are tokens in Monopoly ?'
+p60
+sg4
+S'What'
+p61
+sa(dp62
+g2
+S'Name 11 famous martyrs .'
+p63
+sg4
+g19
+sa(dp64
+g2
+S"What 's the Olympic motto ?"
+p65
+sg4
+g49
+sa(dp66
+g2
+S"What is the origin of the name ` Scarlett ' ?"
+p67
+sg4
+g49
+sa(dp68
+g2
+S"What 's the second-most-used vowel in English ?"
+p69
+sg4
+S'What'
+p70
+sa(dp71
+g2
+S'Who was the inventor of silly putty ?'
+p72
+sg4
+g19
+sa(dp73
+g2
+S'What is the highest waterfall in the United States ?'
+p74
+sg4
+S'What'
+p75
+sa(dp76
+g2
+S'Name a golf course in Myrtle Beach .'
+p77
+sg4
+g61
+sa(dp78
+g2
+S'Which two states enclose Chesapeake Bay ?'
+p79
+sg4
+g46
+sa(dp80
+g2
+S'What does the abbreviation AIDS stand for ?'
+p81
+sg4
+g16
+sa(dp82
+g2
+S'What does a spermologer collect ?'
+p83
+sg4
+g61
+sa(dp84
+g2
+S'How many points make up a perfect fivepin bowling score ?'
+p85
+sg4
+g52
+sa(dp86
+g2
+S"Which company that manufactures video-game hardware sells the `` super system '' ?"
+p87
+sg4
+g22
+sa(dp88
+g2
+S'How many Community Chest cards are there in Monopoly ?'
+p89
+sg4
+g52
+sa(dp90
+g2
+S'What do Mormons believe ?'
+p91
+sg4
+g49
+sa(dp92
+g2
+S'When did the neanderthal man live ?'
+p93
+sg4
+g33
+sa(dp94
+g2
+S'In what religion was Isis the nature goddess ?'
+p95
+sg4
+S'What'
+p96
+sa(dp97
+g2
+S"Where do the adventures of `` The Swiss Family Robinson '' take place ?"
+p98
+sg4
+g75
+sa(dp99
+g2
+S'What relative of the racoon is sometimes known as the cat-bear ?'
+p100
+sg4
+g13
+sa(dp101
+g2
+S'How can I register my website in Yahoo for free ?'
+p102
+sg4
+g5
+sa(dp103
+g2
+S'What was cash-conscious Colonel Edwin L. Drake the first to drill ?'
+p104
+sg4
+g61
+sa(dp105
+g2
+S'How many people in the world speak French ?'
+p106
+sg4
+g52
+sa(dp107
+g2
+S'How many inches over six feet is the Venus de Milo ?'
+p108
+sg4
+g52
+sa(dp109
+g2
+S'How do they find or choose witnesses to an execution ?'
+p110
+sg4
+g5
+sa(dp111
+g2
+S'What 1920s cowboy star rode Tony the Wonder Horse ?'
+p112
+sg4
+g19
+sa(dp113
+g2
+S'What cocktail inspired John Doxat to write the book Stirred-Not Shaken ?'
+p114
+sg4
+S'What'
+p115
+sa(dp116
+g2
+S'What ISPs exist in the Caribbean ?'
+p117
+sg4
+g22
+sa(dp118
+g2
+S'How do you ask a total stranger out on a date ?'
+p119
+sg4
+g5
+sa(dp120
+g2
+S'What weapon is the mythological character Apollo most proficient with ?'
+p121
+sg4
+g61
+sa(dp122
+g2
+S'What country do the Galapagos Islands belong to ?'
+p123
+sg4
+S'What'
+p124
+sa(dp125
+g2
+S'What is ethology ?'
+p126
+sg4
+g28
+sa(dp127
+g2
+S'Who was the prophet of the Muslim people ?'
+p128
+sg4
+g19
+sa(dp129
+g2
+S"Where did the term `` 86ed '' come from ?"
+p130
+sg4
+g49
+sa(dp131
+g2
+S"Who is Snoopy 's arch-enemy ?"
+p132
+sg4
+g19
+sa(dp133
+g2
+S'What is the nature of learning ?'
+p134
+sg4
+g28
+sa(dp135
+g2
+S"What 's the only color Johnny Cash wears on stage ?"
+p136
+sg4
+S'What'
+p137
+sa(dp138
+g2
+S"What 's the term for a young fox ?"
+p139
+sg4
+S'What'
+p140
+sa(dp141
+g2
+S'What U.S. state lived under six flags ?'
+p142
+sg4
+g46
+sa(dp143
+g2
+S'What is the Kashmir issue ?'
+p144
+sg4
+g28
+sa(dp145
+g2
+S'Where is the Loop ?'
+p146
+sg4
+g75
+sa(dp147
+g2
+S"What does `` extended definition '' mean and how would one write a paper on it ?"
+p148
+sg4
+g28
+sa(dp149
+g2
+S"What country 's capital is Tirana ?"
+p150
+sg4
+g124
+sa(dp151
+g2
+S'What is titanium ?'
+p152
+sg4
+g28
+sa(dp153
+g2
+S'Who do Herb and Tootsie live next door to ?'
+p154
+sg4
+g19
+sa(dp155
+g2
+S'Which city has the oldest relationship as a sister\xf0city with Los Angeles ?'
+p156
+sg4
+S'What'
+p157
+sa(dp158
+g2
+S'What is a caldera ?'
+p159
+sg4
+g28
+sa(dp160
+g2
+S'Why do people get calluses ?'
+p161
+sg4
+g36
+sa(dp162
+g2
+S'What are the names of the tourist attractions in Reims ?'
+p163
+sg4
+g75
+sa(dp164
+g2
+S'What are Cushman and Wakefield known for ?'
+p165
+sg4
+g36
+sa(dp166
+g2
+S'What body of water does the Danube River flow into ?'
+p167
+sg4
+g75
+sa(dp168
+g2
+S'Who is the founder of Scientology ?'
+p169
+sg4
+g19
+sa(dp170
+g2
+S'What does the six-footed Musca domestica become when it enters a house ?'
+p171
+sg4
+g61
+sa(dp172
+g2
+S'What is the history of skateboarding ?'
+p173
+sg4
+g49
+sa(dp174
+g2
+S'Who starred in Singing in the Rain and The Singing Nun ?'
+p175
+sg4
+g19
+sa(dp176
+g2
+S'How do I make fuel bricks from recycled newspaper ?'
+p177
+sg4
+g5
+sa(dp178
+g2
+S'What 19th-century painter died in the Marquesas Islands ?'
+p179
+sg4
+g19
+sa(dp180
+g2
+S'The corpus callosum is in what part of the body ?'
+p181
+sg4
+S'What'
+p182
+sa(dp183
+g2
+S'How do I log on to home page at Headquarters U.S. European Command ?'
+p184
+sg4
+g5
+sa(dp185
+g2
+S'What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .'
+p186
+sg4
+g124
+sa(dp187
+g2
+S"What is Nebraska 's most valuable resource ?"
+p188
+sg4
+g61
+sa(dp189
+g2
+S'How many species of the Great White shark are there ?'
+p190
+sg4
+g52
+sa(dp191
+g2
+S'What is the origin of head lice ?'
+p192
+sg4
+g49
+sa(dp193
+g2
+S'What is the nickname for the state of Mississippi ?'
+p194
+sg4
+g46
+sa(dp195
+g2
+S'What was the first domesticated bird ?'
+p196
+sg4
+g13
+sa(dp197
+g2
+S'How many villi are found in the small intestine ?'
+p198
+sg4
+g52
+sa(dp199
+g2
+S'What country did King Wenceslas rule ?'
+p200
+sg4
+g124
+sa(dp201
+g2
+S'What is a fear of shadows ?'
+p202
+sg4
+S'What'
+p203
+sa(dp204
+g2
+S'Who were the five Marx brothers ?'
+p205
+sg4
+g19
+sa(dp206
+g2
+S'In which year was New Zealand excluded from the ANZUS alliance ?'
+p207
+sg4
+g33
+sa(dp208
+g2
+S'When did CNN begin broadcasting ?'
+p209
+sg4
+g33
+sa(dp210
+g2
+S'What causes the body to shiver in cold temperatures ?'
+p211
+sg4
+g36
+sa(dp212
+g2
+S'What are bear and bull markets ?'
+p213
+sg4
+g28
+sa(dp214
+g2
+S'What J.R.R. Tolkien book features Bilbo Baggins as the central character ?'
+p215
+sg4
+g8
+sa(dp216
+g2
+S"What is `` dew point '' ?"
+p217
+sg4
+g28
+sa(dp218
+g2
+S'What is the meaning of Jesus ?'
+p219
+sg4
+g28
+sa(dp220
+g2
+S"What company 's logo is a `` W '' in a circle ?"
+p221
+sg4
+g22
+sa(dp222
+g2
+S'What is the definition of a cascade ?'
+p223
+sg4
+g28
+sa(dp224
+g2
+S'When did Rococo painting and architecture flourish ?'
+p225
+sg4
+g33
+sa(dp226
+g2
+S"What country 's national passenger rail system is called Via ?"
+p227
+sg4
+g124
+sa(dp228
+g2
+S'Who invented Make-up ?'
+p229
+sg4
+g19
+sa(dp230
+g2
+S"What is the origin of the word `` attic '' ?"
+p231
+sg4
+g49
+sa(dp232
+g2
+S"What did Delilah do to Samson 's hair ?"
+p233
+sg4
+g49
+sa(dp234
+g2
+S'What kind of animals were in the Paleozoic era ?'
+p235
+sg4
+g13
+sa(dp236
+g2
+S'Which of the following was Rhodes Scholar ?'
+p237
+sg4
+g19
+sa(dp238
+g2
+S'Who comprised the now-defunct comic book team known as the Champions ?'
+p239
+sg4
+g19
+sa(dp240
+g2
+S'How do you make a paintball ?'
+p241
+sg4
+g5
+sa(dp242
+g2
+S'What U.S. state is Fort Knox in ?'
+p243
+sg4
+g46
+sa(dp244
+g2
+S'What is a female rabbit called ?'
+p245
+sg4
+g13
+sa(dp246
+g2
+S'Where is the highest point in Japan ?'
+p247
+sg4
+S'What'
+p248
+sa(dp249
+g2
+S'Where do chihuahuas come from ?'
+p250
+sg4
+g49
+sa(dp251
+g2
+S"Where does Barney Rubble go to work after he drops Fred off in the `` Flintstones '' cartoon series ?"
+p252
+sg4
+g75
+sa(dp253
+g2
+S"What are the world 's four oceans ?"
+p254
+sg4
+g75
+sa(dp255
+g2
+S"What 's the only work by Michelangelo that bears his signature ?"
+p256
+sg4
+g8
+sa(dp257
+g2
+S'What is the largest snake in the world ?'
+p258
+sg4
+g13
+sa(dp259
+g2
+S'In what medium is Stuart Hamblen considered to be the first singing cowboy ?'
+p260
+sg4
+g8
+sa(dp261
+g2
+S'Where on the Internet can I find a song lyrics database similar to the International Lyrics Server ?'
+p262
+sg4
+g75
+sa(dp263
+g2
+S'How much money does a back injury lawsuit get ?'
+p264
+sg4
+S'What'
+p265
+sa(dp266
+g2
+S"What 's the common name for acetylsalicylic acid ?"
+p267
+sg4
+g140
+sa(dp268
+g2
+S"What does the Georgetown `` Hoya '' mean ?"
+p269
+sg4
+g28
+sa(dp270
+g2
+S"Where can I find a list of `` classic '' books 5th and 6th graders should read ?"
+p271
+sg4
+g75
+sa(dp272
+g2
+S'Which two products use a tiger as their symbol ?'
+p273
+sg4
+S'What'
+p274
+sa(dp275
+g2
+S'How is the election of a new Pope announced to the world ?'
+p276
+sg4
+g5
+sa(dp277
+g2
+S'How long does it take for your blood to make one complete trip through the body ?'
+p278
+sg4
+S'Unknown'
+p279
+sa(dp280
+g2
+S'How do chickens have baby chicks ?'
+p281
+sg4
+g5
+sa(dp282
+g2
+S'What is the historical relationship of Catholic Church and bingo ?'
+p283
+sg4
+g49
+sa(dp284
+g2
+S'How was the element calcium named ?'
+p285
+sg4
+g5
+sa(dp286
+g2
+S'What crooner joined The Andrews Sisters for Pistol Packin Mama ?'
+p287
+sg4
+g19
+sa(dp288
+g2
+S"What piano company claims its product is the `` Instrument of the immortals '' ?"
+p289
+sg4
+g22
+sa(dp290
+g2
+S'When did the Bounty mutiny take place ?'
+p291
+sg4
+g33
+sa(dp292
+g2
+S'What novel inspired the movie BladeRunner ?'
+p293
+sg4
+g8
+sa(dp294
+g2
+S'What is a transistor ?'
+p295
+sg4
+g28
+sa(dp296
+g2
+S'What is a film starring Jude Law ?'
+p297
+sg4
+g8
+sa(dp298
+g2
+S'What Hollywood dog died in the arms of Jean Harlow in 1932 ?'
+p299
+sg4
+g13
+sa(dp300
+g2
+S"What are the most common elements in the Earth 's crust ?"
+p301
+sg4
+S'What'
+p302
+sa(dp303
+g2
+S'How much would it cost to purchase a 2-foot-square party tent , with sides , ?'
+p304
+sg4
+g265
+sa(dp305
+g2
+S'What actress has received the most Oscar nominations ?'
+p306
+sg4
+g19
+sa(dp307
+g2
+S'What are equity securities ?'
+p308
+sg4
+g28
+sa(dp309
+g2
+S'What is gymnophobia ?'
+p310
+sg4
+g28
+sa(dp311
+g2
+S'How many years do fossils take to form ?'
+p312
+sg4
+g52
+sa(dp313
+g2
+S'Where is the Orinoco ?'
+p314
+sg4
+g75
+sa(dp315
+g2
+S"What was the name of the `` Little Rascals '' dog ?"
+p316
+sg4
+g13
+sa(dp317
+g2
+S"What city boasts Penn 's Landing , on the banks of the Delaware river ?"
+p318
+sg4
+g157
+sa(dp319
+g2
+S"What Broadway musical was inspired by Cervantes 's Don Quixote ?"
+p320
+sg4
+g8
+sa(dp321
+g2
+S'What is the origin of the word , JJ .'
+p322
+sg4
+g49
+sa(dp323
+g2
+S'How many hostages were killed in the Entebbe raid ?'
+p324
+sg4
+g52
+sa(dp325
+g2
+S'How you can raise your IQ ?'
+p326
+sg4
+g5
+sa(dp327
+g2
+S"What does INRI stand for when used on Jesus ' cross ?"
+p328
+sg4
+g16
+sa(dp329
+g2
+S'Who produces Spumante ?'
+p330
+sg4
+g22
+sa(dp331
+g2
+S'Who earns their money the hard way ?'
+p332
+sg4
+g19
+sa(dp333
+g2
+S"Who founded the People 's Temple Commune ?"
+p334
+sg4
+g19
+sa(dp335
+g2
+S'What athlete makes the most money from sports merchandise sales ?'
+p336
+sg4
+g19
+sa(dp337
+g2
+S'How many bends are there in a standard paper clip ?'
+p338
+sg4
+g52
+sa(dp339
+g2
+S'Who discovered electricity ?'
+p340
+sg4
+g19
+sa(dp341
+g2
+S'What part of your body contains the corpus callosum ?'
+p342
+sg4
+g182
+sa(dp343
+g2
+S'Who was the first American in space ?'
+p344
+sg4
+g19
+sa(dp345
+g2
+S"What two South American countries do n't border Brazil ?"
+p346
+sg4
+g124
+sa(dp347
+g2
+S'What album put The Beatles on the cover of Time in 1967 ?'
+p348
+sg4
+g8
+sa(dp349
+g2
+S"What poem contains the line , `` grow old with me the best is yet to be '' ."
+p350
+sg4
+g8
+sa(dp351
+g2
+S'What is a dental root canal ?'
+p352
+sg4
+g28
+sa(dp353
+g2
+S'What war did the Wanna-Go-Home Riots occur after ?'
+p354
+sg4
+g43
+sa(dp355
+g2
+S'What is the busiest air travel season ?'
+p356
+sg4
+g33
+sa(dp357
+g2
+S"What 's the colored part of the eye called ?"
+p358
+sg4
+g182
+sa(dp359
+g2
+S'What are hook worms ?'
+p360
+sg4
+g28
+sa(dp361
+g2
+S'Where is the Rose Bowl played ?'
+p362
+sg4
+g75
+sa(dp363
+g2
+S'Which Japanese car maker had its biggest percentage of sale in the domestic market ?'
+p364
+sg4
+g22
+sa(dp365
+g2
+S'Who is the mayor of Marbella ?'
+p366
+sg4
+g19
+sa(dp367
+g2
+S'What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?'
+p368
+sg4
+g75
+sa(dp369
+g2
+S'In what year did Thatcher become prime minister ?'
+p370
+sg4
+g33
+sa(dp371
+g2
+S'How many months does it take the moon to revolve around the Earth ?'
+p372
+sg4
+g52
+sa(dp373
+g2
+S'Where are the 49 steps ?'
+p374
+sg4
+g75
+sa(dp375
+g2
+S'In what year was De Gaulle elected president of France ?'
+p376
+sg4
+g33
+sa(dp377
+g2
+S"Who sings the themes for `` Dawson 's Creek '' and `` Felicity '' ?"
+p378
+sg4
+g19
+sa(dp379
+g2
+S"Who directed `` Jaws '' ?"
+p380
+sg4
+g19
+sa(dp381
+g2
+S'On what T.V. show could Tom Terrific be found ?'
+p382
+sg4
+g8
+sa(dp383
+g2
+S'What Indian tribe is F Troop perpetually doing battle with ?'
+p384
+sg4
+g22
+sa(dp385
+g2
+S'Where did Indian Pudding come from ?'
+p386
+sg4
+g49
+sa(dp387
+g2
+S"Why do some clothing labels say `` Use a nonchlorine bleach '' ?"
+p388
+sg4
+g36
+sa(dp389
+g2
+S'How many colonies were involved in the American Revolution ?'
+p390
+sg4
+g52
+sa(dp391
+g2
+S'What is the name of the city that Maurizio Pellegrin lives in ?'
+p392
+sg4
+g157
+sa(dp393
+g2
+S'Where can I find pictorial directions on how to build a very simple treehouse ?'
+p394
+sg4
+g75
+sa(dp395
+g2
+S"What game 's board shows the territories of Irkutsk , Yakutsk and Kamchatka ?"
+p396
+sg4
+S'What'
+p397
+sa(dp398
+g2
+S'What is the name of the managing director of Apricot Computer ?'
+p399
+sg4
+g19
+sa(dp400
+g2
+S'What is the occupation of Nicholas Cage ?'
+p401
+sg4
+g25
+sa(dp402
+g2
+S'Why do horseshoes bring luck ?'
+p403
+sg4
+g36
+sa(dp404
+g2
+S'What is the 401 , K , plan ?'
+p405
+sg4
+g28
+sa(dp406
+g2
+S'What causes pneumonia ?'
+p407
+sg4
+g36
+sa(dp408
+g2
+S'What are the three winter months in the southern hemisphere ?'
+p409
+sg4
+g33
+sa(dp410
+g2
+S'What does gringo mean ?'
+p411
+sg4
+g28
+sa(dp412
+g2
+S"What country contains Africa 's northernmost point ?"
+p413
+sg4
+g124
+sa(dp414
+g2
+S"What therapy attempts to elicit the `` primal scream '' ?"
+p415
+sg4
+g203
+sa(dp416
+g2
+S'Where is the Kalahari desert ?'
+p417
+sg4
+g75
+sa(dp418
+g2
+S"Which Ventura County police department seized the largest cocaine shipment in it 's history ?"
+p419
+sg4
+g22
+sa(dp420
+g2
+S'What city is sometimes called Gotham ?'
+p421
+sg4
+g157
+sa(dp422
+g2
+S'What dangles over the tongue from the palate ?'
+p423
+sg4
+g182
+sa(dp424
+g2
+S'Who created Dennis the Menace ?'
+p425
+sg4
+g19
+sa(dp426
+g2
+S'What dummy received an honorary degree from Northwestern University ?'
+p427
+sg4
+g19
+sa(dp428
+g2
+S'When was the first Wall Street Journal published ?'
+p429
+sg4
+g33
+sa(dp430
+g2
+S'What countries have the largest areas of forest ?'
+p431
+sg4
+g124
+sa(dp432
+g2
+S'How do I start a web based business ?'
+p433
+sg4
+g5
+sa(dp434
+g2
+S"Name Alvin 's brothers"
+p435
+sg4
+g19
+sa(dp436
+g2
+S"What is Eagle 's syndrome styloid process ?"
+p437
+sg4
+g28
+sa(dp438
+g2
+S'How did Jayne Mansfield die ?'
+p439
+sg4
+g5
+sa(dp440
+g2
+S'When did the royal wedding of Prince Andrew and Fergie take place ?'
+p441
+sg4
+g33
+sa(dp442
+g2
+S"What actor said in A Day at the Races : `` Either he 's dead or my watch has stopped '' ?"
+p443
+sg4
+g19
+sa(dp444
+g2
+S"What explorer was nicknamed Iberia 's Pilot ?"
+p445
+sg4
+g19
+sa(dp446
+g2
+S'CNN began broadcasting in what year ?'
+p447
+sg4
+g33
+sa(dp448
+g2
+S'What is a ball that hits the foul pole called ?'
+p449
+sg4
+g140
+sa(dp450
+g2
+S'What makes hamburgers taste like steakburgers ?'
+p451
+sg4
+g36
+sa(dp452
+g2
+S'Which company created the Internet browser Mosaic ?'
+p453
+sg4
+g22
+sa(dp454
+g2
+S'What are the rites accompanying the circumcision of a newly born-child in Judaism called ?'
+p455
+sg4
+g43
+sa(dp456
+g2
+S"What was the education system in the 1960 's ?"
+p457
+sg4
+g61
+sa(dp458
+g2
+S"What South American city has the world 's highest commercial landing field ?"
+p459
+sg4
+g157
+sa(dp460
+g2
+S'How can I find out which cities have cable-modem access ?'
+p461
+sg4
+g5
+sa(dp462
+g2
+S'What is Betsy Ross famous for ?'
+p463
+sg4
+g36
+sa(dp464
+g2
+S'How many species of sharks are there ?'
+p465
+sg4
+g52
+sa(dp466
+g2
+S"What is `` snoogans '' ?"
+p467
+sg4
+g28
+sa(dp468
+g2
+S'How many people are there in the world ?'
+p469
+sg4
+g52
+sa(dp470
+g2
+S'What shrubs can be planted that will be safe from deer ?'
+p471
+sg4
+S'What'
+p472
+sa(dp473
+g2
+S"What organization 's offices were broken into at Watergate in 1972 ?"
+p474
+sg4
+g22
+sa(dp475
+g2
+S'What is the design of the ship Titanic ?'
+p476
+sg4
+g49
+sa(dp477
+g2
+S'What does S.O.S. stand for ?'
+p478
+sg4
+g16
+sa(dp479
+g2
+S'Name a technique widely used to detect birth defects ?'
+p480
+sg4
+S'What'
+p481
+sa(dp482
+g2
+S'What is the daily requirement of folic acid for an expectant mother ?'
+p483
+sg4
+g49
+sa(dp484
+g2
+S"What is the `` 7-minute cigarette '' ?"
+p485
+sg4
+g28
+sa(dp486
+g2
+S'What four forms does gold occur in ?'
+p487
+sg4
+g61
+sa(dp488
+g2
+S'What is the acreage of the Chappellet vineyard ?'
+p489
+sg4
+S'What'
+p490
+sa(dp491
+g2
+S"How do you correctly say the word ` qigong ' ?"
+p492
+sg4
+g5
+sa(dp493
+g2
+S'When did beethoven die ?'
+p494
+sg4
+g33
+sa(dp495
+g2
+S'How much does a new railroad coal car cost ?'
+p496
+sg4
+g265
+sa(dp497
+g2
+S'What two European countries entered the War of American Independence against the British ?'
+p498
+sg4
+g124
+sa(dp499
+g2
+S'What is the filmmakers collabrative ?'
+p500
+sg4
+g28
+sa(dp501
+g2
+S"What Russian composer 's Prelude in C Sharp Minor brought him fame and fortune ?"
+p502
+sg4
+g19
+sa(dp503
+g2
+S"What caused Harry Houdini 's death ?"
+p504
+sg4
+g36
+sa(dp505
+g2
+S'Who was the mother of the man who would not be king , the duke of Windsor ?'
+p506
+sg4
+g19
+sa(dp507
+g2
+S'How many revolutions does a standard LP make in three minutes ?'
+p508
+sg4
+g52
+sa(dp509
+g2
+S'What is the name of the tallest mountain in the world ?'
+p510
+sg4
+g248
+sa(dp511
+g2
+S'Where can I find a review of Nightmare on Elm Street in a film journal ?'
+p512
+sg4
+g75
+sa(dp513
+g2
+S"What 's the slowest Olympic swimming stroke ?"
+p514
+sg4
+g481
+sa(dp515
+g2
+S'What was the name of the first Russian astronaut to do a spacewalk ?'
+p516
+sg4
+g19
+sa(dp517
+g2
+S'What disease is transmitted by the Anopheles mosquito ?'
+p518
+sg4
+g203
+sa(dp519
+g2
+S"What rum is so `` mixable '' it is a one-brand bar ?"
+p520
+sg4
+g115
+sa(dp521
+g2
+S'How many South American countries have the letter Z in their names ?'
+p522
+sg4
+g52
+sa(dp523
+g2
+S'What is the contents of proposition 98 ?'
+p524
+sg4
+g28
+sa(dp525
+g2
+S'Where was George Washington born ?'
+p526
+sg4
+g75
+sa(dp527
+g2
+S'How many people on the ground were killed from the bombing of Pan Am Flight 103 over Lockerbie , Scotland , December 21 , CD .'
+p528
+sg4
+g52
+sa(dp529
+g2
+S"Who wrote NN DT NNP NNP '' ?"
+p530
+sg4
+g19
+sa(dp531
+g2
+S'What is paracetamol ?'
+p532
+sg4
+g28
+sa(dp533
+g2
+S"What are the powers and weaknesses of Green Lantern 's ring ?"
+p534
+sg4
+g49
+sa(dp535
+g2
+S"Which mosquito 's bite draws blood , DT NN CC DT NN ."
+p536
+sg4
+g13
+sa(dp537
+g2
+S'When was the first steel mill in the United States built ?'
+p538
+sg4
+g33
+sa(dp539
+g2
+S'What diminutive American female gymnast stole the show at the 1984 Olympics ?'
+p540
+sg4
+g19
+sa(dp541
+g2
+S'What is the origin of the name Katie ?'
+p542
+sg4
+g49
+sa(dp543
+g2
+S'What schools in the Washington , DC NN NN VBP NN NN NN NN .'
+p544
+sg4
+g22
+sa(dp545
+g2
+S'When did the Berlin Wall go up ?'
+p546
+sg4
+g33
+sa(dp547
+g2
+S'Who is Terrence Malick ?'
+p548
+sg4
+S'Who'
+p549
+sa(dp550
+g2
+S'What instrument is Ray Charles best known for playing ?'
+p551
+sg4
+S'What'
+p552
+sa(dp553
+g2
+S"What 's the meaning of the Latin battle cry : Ad arma , ad arma ."
+p554
+sg4
+g28
+sa(dp555
+g2
+S'What is the mascot for Notre Dame University ?'
+p556
+sg4
+g61
+sa(dp557
+g2
+S'What Las Vegas hotel burned in November , 1980 , with the loss of 84 lives ?'
+p558
+sg4
+g75
+sa(dp559
+g2
+S'When did Mount St. Helen last have a significant eruption ?'
+p560
+sg4
+g33
+sa(dp561
+g2
+S'CNN is the abbreviation for what ?'
+p562
+sg4
+g16
+sa(dp563
+g2
+S'When did World War I start ?'
+p564
+sg4
+g33
+sa(dp565
+g2
+S'How many feet are there in a fathom ?'
+p566
+sg4
+g52
+sa(dp567
+g2
+S'What is a Canada two-penny black ?'
+p568
+sg4
+g28
+sa(dp569
+g2
+S'What European city do Nicois live in ?'
+p570
+sg4
+g157
+sa(dp571
+g2
+S'How can I find out what year a Beanie Baby was introduced ?'
+p572
+sg4
+g5
+sa(dp573
+g2
+S'What is the classic definition of tragic hero ?'
+p574
+sg4
+g28
+sa(dp575
+g2
+S"To what does Microsoft 's Windows 3 owe its success ?"
+p576
+sg4
+g61
+sa(dp577
+g2
+S'Who was President of Afghanistan in 1994 ?'
+p578
+sg4
+g19
+sa(dp579
+g2
+S'What are other ways of getting stretch marks besides pregnancy , weight loss , and weight lifting ?'
+p580
+sg4
+g481
+sa(dp581
+g2
+S'What did brontosauruses eat ?'
+p582
+sg4
+g115
+sa(dp583
+g2
+S'What color bottles do good Rhine wines come in ?'
+p584
+sg4
+g137
+sa(dp585
+g2
+S"Who was the lead actress in the movie ` Sleepless in Seattle ' ?"
+p586
+sg4
+g19
+sa(dp587
+g2
+S'Who was the 16th President of the United States ?'
+p588
+sg4
+g19
+sa(dp589
+g2
+S'Who are the two sons of Ozzie and Harriet Nelson ?'
+p590
+sg4
+g19
+sa(dp591
+g2
+S'What is molybdenum ?'
+p592
+sg4
+g28
+sa(dp593
+g2
+S'When is Boxing Day ?'
+p594
+sg4
+g33
+sa(dp595
+g2
+S'What is the lowest level of the American judiciary ?'
+p596
+sg4
+g61
+sa(dp597
+g2
+S'When was the battle of the Somme fought ?'
+p598
+sg4
+g33
+sa(dp599
+g2
+S'How many people did Randy Craft kill ?'
+p600
+sg4
+g52
+sa(dp601
+g2
+S"What 's the official animal of Canada ?"
+p602
+sg4
+g13
+sa(dp603
+g2
+S"When did Spielberg direct `` Jaws '' ?"
+p604
+sg4
+g33
+sa(dp605
+g2
+S'What is the size of the largest akita ?'
+p606
+sg4
+g490
+sa(dp607
+g2
+S'What animal has the biggest eyes ?'
+p608
+sg4
+g13
+sa(dp609
+g2
+S"What is California 's capital ?"
+p610
+sg4
+g157
+sa(dp611
+g2
+S"Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?"
+p612
+sg4
+g19
+sa(dp613
+g2
+S'Who was the founding member of the Pink Floyd band ?'
+p614
+sg4
+g19
+sa(dp615
+g2
+S'What European country is home to the beer-producing city of Budweis ?'
+p616
+sg4
+g124
+sa(dp617
+g2
+S'How do I find the balance of my social security account ?'
+p618
+sg4
+g5
+sa(dp619
+g2
+S"What is the history of Valentine 's Day cards ?"
+p620
+sg4
+g49
+sa(dp621
+g2
+S'Where was Christopher Columbus born ?'
+p622
+sg4
+g75
+sa(dp623
+g2
+S'What do Italians call Florence ?'
+p624
+sg4
+g140
+sa(dp625
+g2
+S'How do you get to the top of the Eiffel Tower ?'
+p626
+sg4
+g5
+sa(dp627
+g2
+S"What does ` PSI ' stand for ?"
+p628
+sg4
+g16
+sa(dp629
+g2
+S'What sea did the Romans call mare nostrum ?'
+p630
+sg4
+g75
+sa(dp631
+g2
+S"What 's the term for a bet before cards are dealt ?"
+p632
+sg4
+g140
+sa(dp633
+g2
+S'Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ?'
+p634
+sg4
+g13
+sa(dp635
+g2
+S'What city did the Flintstones live in ?'
+p636
+sg4
+g157
+sa(dp637
+g2
+S'What is Latin for incompetent ?'
+p638
+sg4
+g140
+sa(dp639
+g2
+S'What chemicals are used in lethal injection ?'
+p640
+sg4
+g203
+sa(dp641
+g2
+S"What toy company is the world 's No.1 maker of female apparel ?"
+p642
+sg4
+g22
+sa(dp643
+g2
+S"What board game does a `` wood-pusher '' play poorly ?"
+p644
+sg4
+g397
+sa(dp645
+g2
+S'Which Doonesbury character was likely to turn into a werewolf ?'
+p646
+sg4
+g19
+sa(dp647
+g2
+S'What is the abbreviation for micro ?'
+p648
+sg4
+S'What'
+p649
+sa(dp650
+g2
+S'What are the 7 articles of the constitution ?'
+p651
+sg4
+g61
+sa(dp652
+g2
+S'Who has won the most Super Bowls ?'
+p653
+sg4
+g22
+sa(dp654
+g2
+S'What does NASDAQ stand for ?'
+p655
+sg4
+g16
+sa(dp656
+g2
+S'What is BPH ?'
+p657
+sg4
+g16
+sa(dp658
+g2
+S'What is the fastest commercial automobile that can be bought in the US ?'
+p659
+sg4
+g61
+sa(dp660
+g2
+S'What stadium do the Miami Dolphins play their home games in ?'
+p661
+sg4
+g75
+sa(dp662
+g2
+S"Who has the only speaking role in `` Silent Movie '' ?"
+p663
+sg4
+g19
+sa(dp664
+g2
+S'Why is poop sometimes different colors ?'
+p665
+sg4
+g36
+sa(dp666
+g2
+S"What was Einstein 's IQ ?"
+p667
+sg4
+S'What'
+p668
+sa(dp669
+g2
+S'What day was Pearl Harbor attacked in 1942 ?'
+p670
+sg4
+g33
+sa(dp671
+g2
+S"What girl 's name is `` Teddy '' an affectionate form of ?"
+p672
+sg4
+g19
+sa(dp673
+g2
+S'What state is John F. Kennedy buried in ?'
+p674
+sg4
+g46
+sa(dp675
+g2
+S'What is the best way to remove wallpaper ?'
+p676
+sg4
+g481
+sa(dp677
+g2
+S'What U.S. state has an element named for it ?'
+p678
+sg4
+g46
+sa(dp679
+g2
+S'What company tabulates the ballots in voting for the Academy Awards ?'
+p680
+sg4
+g22
+sa(dp681
+g2
+S'How did the tradition of best man start ?'
+p682
+sg4
+g5
+sa(dp683
+g2
+S'How many years ago did the ship Titanic sink ?'
+p684
+sg4
+g52
+sa(dp685
+g2
+S'What is the deepest area of the Arctic Ocean ?'
+p686
+sg4
+g75
+sa(dp687
+g2
+S"What are Halloween 's colors ?"
+p688
+sg4
+g137
+sa(dp689
+g2
+S'How is silk screening done ?'
+p690
+sg4
+g5
+sa(dp691
+g2
+S'What is the latitude and longitude of El Paso , Texas ?'
+p692
+sg4
+g668
+sa(dp693
+g2
+S'Who made a boat out of gopher wood ?'
+p694
+sg4
+g19
+sa(dp695
+g2
+S"Where can I find a `` Fifth Element '' screensaver ?"
+p696
+sg4
+g75
+sa(dp697
+g2
+S'Which Bloom County resident wreaks havoc with a computer ?'
+p698
+sg4
+g19
+sa(dp699
+g2
+S'How do you match a name to a social security number ?'
+p700
+sg4
+g5
+sa(dp701
+g2
+S'How does a rainbow form ?'
+p702
+sg4
+g5
+sa(dp703
+g2
+S'What is the normal resting heart rate of a healthy adult ?'
+p704
+sg4
+g668
+sa(dp705
+g2
+S'What is the population of Ohio ?'
+p706
+sg4
+g668
+sa(dp707
+g2
+S'How many calories are there in a Big Mac ?'
+p708
+sg4
+g52
+sa(dp709
+g2
+S'Hazmat stands for what ?'
+p710
+sg4
+g28
+sa(dp711
+g2
+S"What creature scares people in the film `` Jaws '' ?"
+p712
+sg4
+g13
+sa(dp713
+g2
+S'What part did John Peter Zenger play in the deveopment of the newspaper in America ?'
+p714
+sg4
+g19
+sa(dp715
+g2
+S'Who followed Caesar ?'
+p716
+sg4
+g19
+sa(dp717
+g2
+S'What are the four elements ?'
+p718
+sg4
+g302
+sa(dp719
+g2
+S'Who was the first woman golfer to earn a million ?'
+p720
+sg4
+g19
+sa(dp721
+g2
+S"What 's the tallest piece on a chessboard ?"
+p722
+sg4
+g61
+sa(dp723
+g2
+S"What is Answers.com 's address ?"
+p724
+sg4
+g75
+sa(dp725
+g2
+S'Where can I buy movies on videotape online ?'
+p726
+sg4
+g75
+sa(dp727
+g2
+S'Who does the advertizing for Frito-Lay ?'
+p728
+sg4
+g19
+sa(dp729
+g2
+S'Who is the leading competitor of Trans Union Company ?'
+p730
+sg4
+g22
+sa(dp731
+g2
+S'What product did Robert Conrad dare people to knock off his shoulder ?'
+p732
+sg4
+g274
+sa(dp733
+g2
+S'Who invented the radio ?'
+p734
+sg4
+g19
+sa(dp735
+g2
+S"What 's the American dollar equivalent for 8 pounds in the U.K. ?"
+p736
+sg4
+g52
+sa(dp737
+g2
+S'What are the different approaches of systems analysis ?'
+p738
+sg4
+g481
+sa(dp739
+g2
+S'How do doctors diagnose bone cancer ?'
+p740
+sg4
+g5
+sa(dp741
+g2
+S'Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?'
+p742
+sg4
+g19
+sa(dp743
+g2
+S'What is the speed of the Mississippi River ?'
+p744
+sg4
+S'What'
+p745
+sa(dp746
+g2
+S'What are the developmental stages of a swimmer ?'
+p747
+sg4
+g61
+sa(dp748
+g2
+S'What actor first portrayed James Bond ?'
+p749
+sg4
+g19
+sa(dp750
+g2
+S'What ocean is the largest in the world ?'
+p751
+sg4
+g75
+sa(dp752
+g2
+S'Who was the first American poet to win the Nobel Prize for literature , in 1948 ?'
+p753
+sg4
+g19
+sa(dp754
+g2
+S'What year did Jack Nicklaus join the Professional Golfers Association tour ?'
+p755
+sg4
+g33
+sa(dp756
+g2
+S'How many sonnets did Shakespeare write ?'
+p757
+sg4
+g52
+sa(dp758
+g2
+S'What causes the redness in your cheeks when you blush ?'
+p759
+sg4
+g36
+sa(dp760
+g2
+S'Who won the Nobel Peace Prize in 1991 ?'
+p761
+sg4
+g19
+sa(dp762
+g2
+S'Who are the Challengers of the Unknown ?'
+p763
+sg4
+g22
+sa(dp764
+g2
+S'Define the Pheonix Club ?'
+p765
+sg4
+g28
+sa(dp766
+g2
+S'Which city did Christian Crusaders fight to recapture from the Muslims ?'
+p767
+sg4
+g157
+sa(dp768
+g2
+S"What does it mean `` Rupee Depreciates '' ?"
+p769
+sg4
+g28
+sa(dp770
+g2
+S"What gaming devices were dubbed `` Mississippi marbles '' and `` Memphis dominoes '' ?"
+p771
+sg4
+g61
+sa(dp772
+g2
+S'Who was the first coach of the Cleveland Browns ?'
+p773
+sg4
+g19
+sa(dp774
+g2
+S'How successful is arometherapy ?'
+p775
+sg4
+g5
+sa(dp776
+g2
+S'What Jewish holiday saw the start of the 1973 Mideast War ?'
+p777
+sg4
+g43
+sa(dp778
+g2
+S'How does a copier work ?'
+p779
+sg4
+g5
+sa(dp780
+g2
+S'What is the speed of the Mississippi River ?'
+p781
+sg4
+g745
+sa(dp782
+g2
+S"Who said of Super Bowl III in 1969 : `` We 'll win- I guarantee it '' ?"
+p783
+sg4
+g19
+sa(dp784
+g2
+S"What is Dudley Do-Right 's horse 's name ?"
+p785
+sg4
+g13
+sa(dp786
+g2
+S"Who declared : `` I am down on whores and I shan 't stop ripping them '' ?"
+p787
+sg4
+g19
+sa(dp788
+g2
+S'Where does chocolate come from ?'
+p789
+sg4
+g75
+sa(dp790
+g2
+S'What TV game show once saw a contestant admit to picking his toes in the shower ?'
+p791
+sg4
+g8
+sa(dp792
+g2
+S'What Soviet leader owned a Rolls-Royce ?'
+p793
+sg4
+g19
+sa(dp794
+g2
+S'Where can I find a case on Individuals with Disabilities Education Act of 1991 ?'
+p795
+sg4
+g75
+sa(dp796
+g2
+S'What war did Florence Nightingale tend the troops in ?'
+p797
+sg4
+g43
+sa(dp798
+g2
+S"Who wrote the song , `` Stardust '' ?"
+p799
+sg4
+g19
+sa(dp800
+g2
+S"How many Beatles ' records went #1 ?"
+p801
+sg4
+g52
+sa(dp802
+g2
+S'Who is the only prime minister of Canada to serve 22 years but not necessarily consecutively ?'
+p803
+sg4
+g19
+sa(dp804
+g2
+S"What is the abbreviation of the company name ` General Motors ' ?"
+p805
+sg4
+g649
+sa(dp806
+g2
+S'What mountains lie between the Arkansas and Missouri rivers ?'
+p807
+sg4
+g248
+sa(dp808
+g2
+S'Who received the Will Rogers Award in 1989 ?'
+p809
+sg4
+g19
+sa(dp810
+g2
+S'What is the function of RAM ?'
+p811
+sg4
+g36
+sa(dp812
+g2
+S"What 's the closest G2 Spectrum Yellow Dwarf to Earth ?"
+p813
+sg4
+g75
+sa(dp814
+g2
+S'How many equal angles are there in an isosceles triangle ?'
+p815
+sg4
+g52
+sa(dp816
+g2
+S'What is the fear of cockroaches called ?'
+p817
+sg4
+g203
+sa(dp818
+g2
+S"What CBS soap opera was interrupted by the bulletin of John F. Kennedy 's assassination ?"
+p819
+sg4
+g8
+sa(dp820
+g2
+S'What is the use of a 24-hour clock instead of a 12-hour clock ?'
+p821
+sg4
+g49
+sa(dp822
+g2
+S'What was the name of the lawyer who represented Randy Craft ?'
+p823
+sg4
+g19
+sa(dp824
+g2
+S'What United States President had dreamed that he was assassinated ?'
+p825
+sg4
+g19
+sa(dp826
+g2
+S'What film did Lee Marvin win the 1965 best actor Oscar for ?'
+p827
+sg4
+g8
+sa(dp828
+g2
+S'Where is Basque country located ?'
+p829
+sg4
+g75
+sa(dp830
+g2
+S"What product does `` Mrs. Olsen '' promote ?"
+p831
+sg4
+g274
+sa(dp832
+g2
+S'What time of day did Emperor Hirohito die ?'
+p833
+sg4
+g33
+sa(dp834
+g2
+S'What is dry ice ?'
+p835
+sg4
+g28
+sa(dp836
+g2
+S"What 's the most powerful card in Euchre ?"
+p837
+sg4
+g61
+sa(dp838
+g2
+S"What does `` intractable plantar keratoma '' mean ?"
+p839
+sg4
+g28
+sa(dp840
+g2
+S'How many years did it take James Joyce to write Ulysses ?'
+p841
+sg4
+g52
+sa(dp842
+g2
+S'What crop failure caused the Irish Famine ?'
+p843
+sg4
+g115
+sa(dp844
+g2
+S'What South Korean city is served by Kimpo International Airport ?'
+p845
+sg4
+g157
+sa(dp846
+g2
+S"How many types of dogs ' tails are there - three"
+p847
+sg4
+g52
+sa(dp848
+g2
+S'What is the longest-running television series ?'
+p849
+sg4
+g8
+sa(dp850
+g2
+S'What predators exist on Antarctica ?'
+p851
+sg4
+g13
+sa(dp852
+g2
+S'What is the difference between a generator and an alternator ?'
+p853
+sg4
+g49
+sa(dp854
+g2
+S'How is energy created ?'
+p855
+sg4
+g5
+sa(dp856
+g2
+S"What beer advertised that it had `` three rings '' ?"
+p857
+sg4
+g115
+sa(dp858
+g2
+S'What is the quantity of American soldiers still unaccounted for from the Vietnam war ?'
+p859
+sg4
+g668
+sa(dp860
+g2
+S'What golfing accessory was patented by George Grant on December 12'
+p861
+sg4
+g481
+sa(dp862
+g2
+S'What are the different types of plastic ?'
+p863
+sg4
+g61
+sa(dp864
+g2
+S"How is it correct to say ` qigong ' ?"
+p865
+sg4
+g5
+sa(dp866
+g2
+S'What was the highest mountain on earth before Mount Everest was discovered ?'
+p867
+sg4
+g248
+sa(dp868
+g2
+S'Where was the Ligurian Republic , 1797-185 , ?'
+p869
+sg4
+g75
+sa(dp870
+g2
+S"What country 's people are the top television watchers ?"
+p871
+sg4
+g124
+sa(dp872
+g2
+S"When was the women 's suffrage amendment ratified ?"
+p873
+sg4
+g33
+sa(dp874
+g2
+S'What Polynesian people inhabit New Zealand ?'
+p875
+sg4
+g22
+sa(dp876
+g2
+S"What movie tour of the Roman empire features the admonition : `` Row well and live '' ?"
+p877
+sg4
+g8
+sa(dp878
+g2
+S'What Nevada center has been dubbed The Biggest Little City in the World ?'
+p879
+sg4
+g157
+sa(dp880
+g2
+S'What President lived at 219 North Delaware Street , Independence , Missouri ?'
+p881
+sg4
+g19
+sa(dp882
+g2
+S'Give a reason for American Indians oftentimes dropping out of school .'
+p883
+sg4
+g36
+sa(dp884
+g2
+S'Where must a soccer goalie stand to be permitted to handle the ball ?'
+p885
+sg4
+g75
+sa(dp886
+g2
+S'What is the difference between classical conditioning and operant conditioning ?'
+p887
+sg4
+g49
+sa(dp888
+g2
+S'In what U.S. state was the first woman governor elected ?'
+p889
+sg4
+g46
+sa(dp890
+g2
+S'What are some interesting facts and information about dogsledding ?'
+p891
+sg4
+g49
+sa(dp892
+g2
+S'What year did Hitler die ?'
+p893
+sg4
+g33
+sa(dp894
+g2
+S'What famous model was married to Billy Joel ?'
+p895
+sg4
+g19
+sa(dp896
+g2
+S'What kind of animal is Babar ?'
+p897
+sg4
+g13
+sa(dp898
+g2
+S'What is Jane Goodall known for ?'
+p899
+sg4
+g36
+sa(dp900
+g2
+S'What killed Bob Marley ?'
+p901
+sg4
+g61
+sa(dp902
+g2
+S"How much money are Dumbo 's ears insured for ?"
+p903
+sg4
+g265
+sa(dp904
+g2
+S"Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?"
+p905
+sg4
+g19
+sa(dp906
+g2
+S'Who is Stein Eriksen ?'
+p907
+sg4
+g549
+sa(dp908
+g2
+S'What does the name Billie mean ?'
+p909
+sg4
+g28
+sa(dp910
+g2
+S'Who is the fastest swimmer in the world ?'
+p911
+sg4
+g19
+sa(dp912
+g2
+S'What is the highest peak in Africa ?'
+p913
+sg4
+g248
+sa(dp914
+g2
+S'Where is Procter & Gamble headquartered in the U.S. ?'
+p915
+sg4
+g75
+sa(dp916
+g2
+S'What desert has been called The Garden of Allah ?'
+p917
+sg4
+g75
+sa(dp918
+g2
+S'What do bicornate animals have two of ?'
+p919
+sg4
+g61
+sa(dp920
+g2
+S"What function does a community 's water tower serve ?"
+p921
+sg4
+g36
+sa(dp922
+g2
+S'What is a fear of weakness ?'
+p923
+sg4
+g203
+sa(dp924
+g2
+S'How many miles is it to Ohio from North Carolina ?'
+p925
+sg4
+g52
+sa(dp926
+g2
+S'How much snow equals an inch of rain ?'
+p927
+sg4
+g52
+sa(dp928
+g2
+S'What does G.M.T. stand for ?'
+p929
+sg4
+g16
+sa(dp930
+g2
+S'What does Inuit and Eskimo mean ?'
+p931
+sg4
+g28
+sa(dp932
+g2
+S'What song served as the closing theme of The Johnny Cash Show ?'
+p933
+sg4
+g8
+sa(dp934
+g2
+S'What field sport did dentist William Beers promote and write a standard book of rules for ?'
+p935
+sg4
+g397
+sa(dp936
+g2
+S'How do I tie dye clothes ?'
+p937
+sg4
+g5
+sa(dp938
+g2
+S'When does the average teenager first have intercourse ?'
+p939
+sg4
+g33
+sa(dp940
+g2
+S"Why doesn 't www.answers.com have any answers to my questions ?"
+p941
+sg4
+g36
+sa(dp942
+g2
+S"What actor 's autobiography is titled All My Yesterdays ?"
+p943
+sg4
+g19
+sa(dp944
+g2
+S'What Russian master spy lived in the U.S. under the name Emil Goldfus ?'
+p945
+sg4
+g19
+sa(dp946
+g2
+S"Where 's the 19th hole on a golf course ?"
+p947
+sg4
+g75
+sa(dp948
+g2
+S"What 's nature 's purpose for tornadoes ?"
+p949
+sg4
+g36
+sa(dp950
+g2
+S"Who played the original Charlie 's Angels ?"
+p951
+sg4
+g19
+sa(dp952
+g2
+S"Where can I find a person 's address from a telephone number ?"
+p953
+sg4
+g75
+sa(dp954
+g2
+S'What English word comes from the Old French covrefeu , meaning cover fire ?'
+p955
+sg4
+S'What'
+p956
+sa(dp957
+g2
+S"What musical instrument did Prewitt play in James Jones 's From Here to Eternity ?"
+p958
+sg4
+g552
+sa(dp959
+g2
+S'Where did Sarge Steel get his metal hand ?'
+p960
+sg4
+g75
+sa(dp961
+g2
+S'What makes popcorn pop ?'
+p962
+sg4
+g36
+sa(dp963
+g2
+S'Who wrote The Night of the Iguana ?'
+p964
+sg4
+g19
+sa(dp965
+g2
+S'Where does your hair grow the fastest ?'
+p966
+sg4
+g182
+sa(dp967
+g2
+S'What country did King Gustav V reign over from 197 to 195 ?'
+p968
+sg4
+g124
+sa(dp969
+g2
+S'Who painted Mother and Child ?'
+p970
+sg4
+g19
+sa(dp971
+g2
+S'What is the speed of the Mississippi River ?'
+p972
+sg4
+g745
+sa(dp973
+g2
+S'In what area of the world was the Six Day War fought ?'
+p974
+sg4
+g75
+sa(dp975
+g2
+S'What is the brightest star visible from Earth ?'
+p976
+sg4
+g75
+sa(dp977
+g2
+S"What film marked Robert Redford 's directorial debut ?"
+p978
+sg4
+g8
+sa(dp979
+g2
+S"What was Mao 's second name ?"
+p980
+sg4
+g19
+sa(dp981
+g2
+S'What film or films has Jude Law appeared in ?'
+p982
+sg4
+g8
+sa(dp983
+g2
+S'Where do hyenas live ?'
+p984
+sg4
+g75
+sa(dp985
+g2
+S"Who is the `` Queen Mother '' ?"
+p986
+sg4
+g549
+sa(dp987
+g2
+S"What 's the most commonly-spoken language in Belgium ?"
+p988
+sg4
+S'What'
+p989
+sa(dp990
+g2
+S'Who has more DNA - a man or a woman ?'
+p991
+sg4
+g19
+sa(dp992
+g2
+S'What are Maid-Rites ?'
+p993
+sg4
+g28
+sa(dp994
+g2
+S"What children 's tale contains the line : `` Come , Cinderslut , and hold this skein of wool for me '' ?"
+p995
+sg4
+g8
+sa(dp996
+g2
+S'What level of government or governmental agency is responsible for dealing with racism ?'
+p997
+sg4
+g22
+sa(dp998
+g2
+S'How many referees work a soccer game ?'
+p999
+sg4
+g52
+sa(dp1000
+g2
+S'What cocktail do you concoct with whisky and sweet vermouth ?'
+p1001
+sg4
+g115
+sa(dp1002
+g2
+S"How do you say `` fresh '' in Spanish ?"
+p1003
+sg4
+g140
+sa(dp1004
+g2
+S'What do bee hives do in cranberry bogs ?'
+p1005
+sg4
+g49
+sa(dp1006
+g2
+S'What caused the Lynmouth floods ?'
+p1007
+sg4
+g36
+sa(dp1008
+g2
+S'When is the Tulip Festival in Michigan ?'
+p1009
+sg4
+g33
+sa(dp1010
+g2
+S'Who came up with the name , El Nino ?'
+p1011
+sg4
+g19
+sa(dp1012
+g2
+S'What movie did Madilyn Kahn star in with Gene Wilder ?'
+p1013
+sg4
+g8
+sa(dp1014
+g2
+S'What type of bridge is the Golden Gate Bridge ?'
+p1015
+sg4
+g61
+sa(dp1016
+g2
+S"What dictator has the nickname `` El Maximo '' ?"
+p1017
+sg4
+g19
+sa(dp1018
+g2
+S"What stereo manufacturer is `` Slightly ahead of its time '' ?"
+p1019
+sg4
+g22
+sa(dp1020
+g2
+S'What U.S. city is The Queen of the Pacific ?'
+p1021
+sg4
+g157
+sa(dp1022
+g2
+S'What TV sitcom character had the maiden name Ethel Potter ?'
+p1023
+sg4
+g19
+sa(dp1024
+g2
+S'What was the first Lifesaver flavor ?'
+p1025
+sg4
+g115
+sa(dp1026
+g2
+S'Who kept the most famous diary in the English language ?'
+p1027
+sg4
+g19
+sa(dp1028
+g2
+S'Where can I find out the top 1 singles ?'
+p1029
+sg4
+g75
+sa(dp1030
+g2
+S'How many degrees cooler is the inside of a cucumber than the air outside ?'
+p1031
+sg4
+g52
+sa(dp1032
+g2
+S'What Spanish artist painted Crucifixion ?'
+p1033
+sg4
+g19
+sa(dp1034
+g2
+S'What is the Jewish bible called ?'
+p1035
+sg4
+g8
+sa(dp1036
+g2
+S'Why is the grass green ?'
+p1037
+sg4
+g36
+sa(dp1038
+g2
+S'What is a firewall ?'
+p1039
+sg4
+g28
+sa(dp1040
+g2
+S'What spy novelist served as Moscow correspondent for Reuter and The Times of London ?'
+p1041
+sg4
+g19
+sa(dp1042
+g2
+S"Which oil company almost picked a word that meant `` stalled car '' in Japanese as its new international name ?"
+p1043
+sg4
+g22
+sa(dp1044
+g2
+S"How long does it take for Spider-Man 's web to evaporate ?"
+p1045
+sg4
+g279
+sa(dp1046
+g2
+S"Who was Randy Steven Craft 's lawyer ?"
+p1047
+sg4
+g19
+sa(dp1048
+g2
+S'What was known as the Spice Island ?'
+p1049
+sg4
+g75
+sa(dp1050
+g2
+S'Who was the first host of Person to Person ?'
+p1051
+sg4
+g19
+sa(dp1052
+g2
+S'Name the Ranger who was always after Yogi Bear .'
+p1053
+sg4
+g19
+sa(dp1054
+g2
+S'What deck of cards includes the Wheel of Fortune , the Lovers , and Death ?'
+p1055
+sg4
+g61
+sa(dp1056
+g2
+S'What does the Statue of Liberty wear on her feet ?'
+p1057
+sg4
+g61
+sa(dp1058
+g2
+S'Who is the superstar in rent-a-cars ?'
+p1059
+sg4
+g19
+sa(dp1060
+g2
+S'McCarren Airport is located in what city ?'
+p1061
+sg4
+g157
+sa(dp1062
+g2
+S'What household facility contains a float ball , ballcock , and overflow tube ?'
+p1063
+sg4
+g61
+sa(dp1064
+g2
+S"What was the name of Betty Boop 's dog ?"
+p1065
+sg4
+g13
+sa(dp1066
+g2
+S"What fraction of a beaver 's life is spent swimming ?"
+p1067
+sg4
+S'What'
+p1068
+sa(dp1069
+g2
+S'What was the Bridge of San Luis Rey made of ?'
+p1070
+sg4
+g302
+sa(dp1071
+g2
+S'What do economists do ?'
+p1072
+sg4
+g49
+sa(dp1073
+g2
+S'What country has the largest sheep population ?'
+p1074
+sg4
+g124
+sa(dp1075
+g2
+S'What do I need to do to take my dog with me to live in Dominica , West Indies for a year ?'
+p1076
+sg4
+g49
+sa(dp1077
+g2
+S"What country is the world 's largest importer of cognac ?"
+p1078
+sg4
+g124
+sa(dp1079
+g2
+S'How many years is Johnnie Walker Black Label aged ?'
+p1080
+sg4
+g52
+sa(dp1081
+g2
+S'What does SIDS stand for ?'
+p1082
+sg4
+g16
+sa(dp1083
+g2
+S"What is Grenada 's main commodity export ?"
+p1084
+sg4
+g61
+sa(dp1085
+g2
+S'How much would a black-and-white 1-cent stamp be worth , Thomas Jefferson on it , ?'
+p1086
+sg4
+g265
+sa(dp1087
+g2
+S'What makes a clitoris sensitive ?'
+p1088
+sg4
+g36
+sa(dp1089
+g2
+S'What country has the most time zones , with 11 ?'
+p1090
+sg4
+g124
+sa(dp1091
+g2
+S"What `` magic '' does Mandrake employ ?"
+p1092
+sg4
+g61
+sa(dp1093
+g2
+S'Who is the president of Stanford University ?'
+p1094
+sg4
+g19
+sa(dp1095
+g2
+S"Whose first presidential order was : `` Let 's get this goddamn thing airborne '' ?"
+p1096
+sg4
+g19
+sa(dp1097
+g2
+S'What was introduced commercially by Bayer A.G. of Leverkusen , in 1899 ?'
+p1098
+sg4
+g61
+sa(dp1099
+g2
+S'What city is Logan Airport in ?'
+p1100
+sg4
+g157
+sa(dp1101
+g2
+S'What is a nanometer ?'
+p1102
+sg4
+g28
+sa(dp1103
+g2
+S'How many innings are there in a regulation softball game ?'
+p1104
+sg4
+g52
+sa(dp1105
+g2
+S'When did CNN go on the air ?'
+p1106
+sg4
+g33
+sa(dp1107
+g2
+S'What is the largest city on the Great Lakes ?'
+p1108
+sg4
+g157
+sa(dp1109
+g2
+S'What is the telephone number for the University of Kentucky ?'
+p1110
+sg4
+S'What'
+p1111
+sa(dp1112
+g2
+S'Who invented baseball ?'
+p1113
+sg4
+g19
+sa(dp1114
+g2
+S'How many wives did Brigham Young have ?'
+p1115
+sg4
+g52
+sa(dp1116
+g2
+S'What product on the market is good for hiding facial scars ?'
+p1117
+sg4
+g274
+sa(dp1118
+g2
+S'How long is the Coney Island boardwalk ?'
+p1119
+sg4
+S'What'
+p1120
+sa(dp1121
+g2
+S'What city gained renown for its pea-soup fogs ?'
+p1122
+sg4
+g157
+sa(dp1123
+g2
+S"What does `` Janelle '' mean ?"
+p1124
+sg4
+g28
+sa(dp1125
+g2
+S"How do I get another city 's newspaper ?"
+p1126
+sg4
+g5
+sa(dp1127
+g2
+S'Name a movie about the Sioux Indians starring Kevin Costner .'
+p1128
+sg4
+g8
+sa(dp1129
+g2
+S'Who was shot in the back during a Poker game in Deadwood , the Dakota territory ?'
+p1130
+sg4
+g19
+sa(dp1131
+g2
+S'What are the distinct physical characterstics of the Arabian horse ?'
+p1132
+sg4
+g49
+sa(dp1133
+g2
+S'What is a fear of thunder ?'
+p1134
+sg4
+g203
+sa(dp1135
+g2
+S'What animal has killed the most people ?'
+p1136
+sg4
+g13
+sa(dp1137
+g2
+S'How many colleges are in Wyoming ?'
+p1138
+sg4
+g52
+sa(dp1139
+g2
+S"What Russian seaport has a name meaning `` Lord of the East '' ?"
+p1140
+sg4
+g157
+sa(dp1141
+g2
+S'Where can stocks be traded on-line ?'
+p1142
+sg4
+g75
+sa(dp1143
+g2
+S'When was the Battle of Hastings ?'
+p1144
+sg4
+g33
+sa(dp1145
+g2
+S'What kind of file has the extension .dbf ?'
+p1146
+sg4
+g61
+sa(dp1147
+g2
+S'When did Muhammad live ?'
+p1148
+sg4
+g33
+sa(dp1149
+g2
+S'What then-derogatory term was applied to the painters Monet , Sisley , Pissarro , Renoir and Degas ?'
+p1150
+sg4
+g140
+sa(dp1151
+g2
+S'What is a wop ?'
+p1152
+sg4
+g28
+sa(dp1153
+g2
+S'Where do rocks come from ?'
+p1154
+sg4
+g49
+sa(dp1155
+g2
+S'How do I stop background noise in a car stereo ?'
+p1156
+sg4
+g5
+sa(dp1157
+g2
+S'Where do people mountain climb in Nepal ?'
+p1158
+sg4
+g248
+sa(dp1159
+g2
+S'What is the best college in the country ?'
+p1160
+sg4
+g22
+sa(dp1161
+g2
+S'What is viscosity ?'
+p1162
+sg4
+g28
+sa(dp1163
+g2
+S'What was the name of the sitcom that Alyssa Milano starred in with Tony Danza ?'
+p1164
+sg4
+g8
+sa(dp1165
+g2
+S'What are the Nordic nations ?'
+p1166
+sg4
+g124
+sa(dp1167
+g2
+S'Where on the Internet can I get information about the Fifth Amendment on the American Bill of Rights ?'
+p1168
+sg4
+g75
+sa(dp1169
+g2
+S'What U.S. state borders Illinois to the north ?'
+p1170
+sg4
+g46
+sa(dp1171
+g2
+S'Name a film in which Jude Law acted .'
+p1172
+sg4
+g8
+sa(dp1173
+g2
+S'What is the temperature for baking Peachy Oat Muffins ?'
+p1174
+sg4
+S'What'
+p1175
+sa(dp1176
+g2
+S'What is a fear of bees ?'
+p1177
+sg4
+g203
+sa(dp1178
+g2
+S'What Vladimir Nabokov novel features Professor Humbert in love with a 12-year-old girl ?'
+p1179
+sg4
+g8
+sa(dp1180
+g2
+S'What is a green bog ?'
+p1181
+sg4
+g28
+sa(dp1182
+g2
+S'Where did the myth of Santa Claus originate ?'
+p1183
+sg4
+g75
+sa(dp1184
+g2
+S'What does a chairbound basophobic fear ?'
+p1185
+sg4
+g61
+sa(dp1186
+g2
+S'What city is served by Logan International Airport ?'
+p1187
+sg4
+g157
+sa(dp1188
+g2
+S"What wrestling star became `` The Incredible Hulk '' ?"
+p1189
+sg4
+g19
+sa(dp1190
+g2
+S'What attracts tourists to Reims ?'
+p1191
+sg4
+g75
+sa(dp1192
+g2
+S'What game do Steve McQueen and Edward G. Robinson play in The Cincinnati Kid ?'
+p1193
+sg4
+g397
+sa(dp1194
+g2
+S'What fastener did Whitcomb Judson patent in 1893 ?'
+p1195
+sg4
+g61
+sa(dp1196
+g2
+S"What 's an auberge in France ?"
+p1197
+sg4
+g28
+sa(dp1198
+g2
+S'Who was the star of the 1965 Broadway hit Golden Boy ?'
+p1199
+sg4
+g19
+sa(dp1200
+g2
+S'Where is Procter & Gamble based in the U.S. ?'
+p1201
+sg4
+g75
+sa(dp1202
+g2
+S'What army was founded by William Booth and his wife Catherine ?'
+p1203
+sg4
+g22
+sa(dp1204
+g2
+S'What does ribavirin consist of ?'
+p1205
+sg4
+g302
+sa(dp1206
+g2
+S"Name the soft drink that is `` number one in the sun . ''"
+p1207
+sg4
+g115
+sa(dp1208
+g2
+S'What is the web address of the list of e-mail addresses of members of the House of Representatives ?'
+p1209
+sg4
+g75
+sa(dp1210
+g2
+S'What was her real name ?'
+p1211
+sg4
+g19
+sa(dp1212
+g2
+S'Why are the ears your center of balance ?'
+p1213
+sg4
+g36
+sa(dp1214
+g2
+S'Who invented the toothbrush ?'
+p1215
+sg4
+g19
+sa(dp1216
+g2
+S'What was the name of that popular song the Creeps sang ?'
+p1217
+sg4
+g8
+sa(dp1218
+g2
+S'Where is the Abominable Snowman said to wander ?'
+p1219
+sg4
+g75
+sa(dp1220
+g2
+S'What is a fear of being alone ?'
+p1221
+sg4
+g203
+sa(dp1222
+g2
+S"How many dots make up the symbol for `` because '' ?"
+p1223
+sg4
+g52
+sa(dp1224
+g2
+S'What do you get by adding Lactobacillus bulgaricus to milk ?'
+p1225
+sg4
+g115
+sa(dp1226
+g2
+S'When reading classified ads , what does EENTY : other stand for ?'
+p1227
+sg4
+g16
+sa(dp1228
+g2
+S'How many hearts does an octopus have ?'
+p1229
+sg4
+g52
+sa(dp1230
+g2
+S'What plant has the largest seed ?'
+p1231
+sg4
+g472
+sa(dp1232
+g2
+S'What was the only country you were allowed to drive into Israel from in 1979 ?'
+p1233
+sg4
+g124
+sa(dp1234
+g2
+S"What 's approaching when a cyclist shouts : `` Oil '' ?"
+p1235
+sg4
+g61
+sa(dp1236
+g2
+S"What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?"
+p1237
+sg4
+g19
+sa(dp1238
+g2
+S'What kind of sport is often associated with hooligans ?'
+p1239
+sg4
+g397
+sa(dp1240
+g2
+S'What video game hero do some of his fans call Chomper ?'
+p1241
+sg4
+g19
+sa(dp1242
+g2
+S'How many holes are there in a tenpin bowling ball ?'
+p1243
+sg4
+g52
+sa(dp1244
+g2
+S'What is the longest word in the English language ?'
+p1245
+sg4
+g956
+sa(dp1246
+g2
+S'In What city or state do the most gay men live in ?'
+p1247
+sg4
+g75
+sa(dp1248
+g2
+S"What TV comediennes 's characters include former movie star Nora Desmond , secretary Mrs. Wiggins and a housewife named Eunice ?"
+p1249
+sg4
+g19
+sa(dp1250
+g2
+S"What is `` the bear of beers '' ?"
+p1251
+sg4
+g13
+sa(dp1252
+g2
+S'Name the operating system that runs on IBM-compatible machines .'
+p1253
+sg4
+g61
+sa(dp1254
+g2
+S"What does the name `` Justin '' mean ?"
+p1255
+sg4
+g28
+sa(dp1256
+g2
+S'What percentage of the body is muscle ?'
+p1257
+sg4
+g1068
+sa(dp1258
+g2
+S'What color of dry wine should be served with veal roasts and chops ?'
+p1259
+sg4
+g137
+sa(dp1260
+g2
+S'What is a golf ball made of ?'
+p1261
+sg4
+g302
+sa(dp1262
+g2
+S'What is the Amish religion ?'
+p1263
+sg4
+g28
+sa(dp1264
+g2
+S'What does an average daycare provider get paid in New England ?'
+p1265
+sg4
+g265
+sa(dp1266
+g2
+S'What was the name of the 187s Irish terrorist group in Pennsylvania mining areas ?'
+p1267
+sg4
+g22
+sa(dp1268
+g2
+S'Who played the Ringo Kid in the 1939 film Stagecoach ?'
+p1269
+sg4
+g19
+sa(dp1270
+g2
+S'Who died 1 feet from where John F. Kennedy did ?'
+p1271
+sg4
+g19
+sa(dp1272
+g2
+S"What is the `` coppertop '' battery ?"
+p1273
+sg4
+g28
+sa(dp1274
+g2
+S'What sign is The Water Carrier the zodiacal symbol for ?'
+p1275
+sg4
+S'What'
+p1276
+sa(dp1277
+g2
+S'What animals do you find in the stock market ?'
+p1278
+sg4
+g13
+sa(dp1279
+g2
+S'What is color ?'
+p1280
+sg4
+g28
+sa(dp1281
+g2
+S'When is the site www.questions.com going to open ?'
+p1282
+sg4
+g33
+sa(dp1283
+g2
+S'What did Shostakovich write for Rostropovich ?'
+p1284
+sg4
+g8
+sa(dp1285
+g2
+S'What first name was Nipsy Russell given at birth ?'
+p1286
+sg4
+g19
+sa(dp1287
+g2
+S'How can I get some free technical information on Electric Vehicle ?'
+p1288
+sg4
+g5
+sa(dp1289
+g2
+S'Who is the youngest of the Beatles ?'
+p1290
+sg4
+g19
+sa(dp1291
+g2
+S'How did shipyard inspector James J. Kilroy designate equipment as being satisfactory ?'
+p1292
+sg4
+g5
+sa(dp1293
+g2
+S'What is a Jellicle Cat ?'
+p1294
+sg4
+g28
+sa(dp1295
+g2
+S'Where can I find the best free evidence for debate about Russia ?'
+p1296
+sg4
+g75
+sa(dp1297
+g2
+S'What is Bill Gates of Microsoft E-mail address ?'
+p1298
+sg4
+g75
+sa(dp1299
+g2
+S'What is the second hardest substance ?'
+p1300
+sg4
+g302
+sa(dp1301
+g2
+S'Why did several San Diego schools stop serving apples to students ?'
+p1302
+sg4
+g36
+sa(dp1303
+g2
+S'What Russian city boasts the Hermitage Museum ?'
+p1304
+sg4
+g157
+sa(dp1305
+g2
+S'When is Bastille Day ?'
+p1306
+sg4
+g33
+sa(dp1307
+g2
+S'What makes a tornado turn ?'
+p1308
+sg4
+g36
+sa(dp1309
+g2
+S'How many shots can a stock M16 hold ?'
+p1310
+sg4
+g52
+sa(dp1311
+g2
+S'What two colors are you blind to if you suffer from protanopia ?'
+p1312
+sg4
+g137
+sa(dp1313
+g2
+S"Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?"
+p1314
+sg4
+g36
+sa(dp1315
+g2
+S'Who is Coronado ?'
+p1316
+sg4
+g549
+sa(dp1317
+g2
+S'What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger ?'
+p1318
+sg4
+g8
+sa(dp1319
+g2
+S'What is artificial intelligence ?'
+p1320
+sg4
+g28
+sa(dp1321
+g2
+S'What do flatfish eat ?'
+p1322
+sg4
+g115
+sa(dp1323
+g2
+S'Who was the first Holy Roman Emperor ?'
+p1324
+sg4
+g19
+sa(dp1325
+g2
+S'What can I use to remove the stubborn gummed labels from some diskettes ?'
+p1326
+sg4
+g61
+sa(dp1327
+g2
+S'What day of the week sees the most fatal car accidents ?'
+p1328
+sg4
+g33
+sa(dp1329
+g2
+S'What is the origin of the word , magic ?'
+p1330
+sg4
+g49
+sa(dp1331
+g2
+S'What sport do you shag flies in ?'
+p1332
+sg4
+g397
+sa(dp1333
+g2
+S'What is white chocolate ?'
+p1334
+sg4
+g28
+sa(dp1335
+g2
+S'Where is Trinidad ?'
+p1336
+sg4
+g75
+sa(dp1337
+g2
+S'Name the organization that is presided by a Security Council .'
+p1338
+sg4
+g22
+sa(dp1339
+g2
+S"Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?"
+p1340
+sg4
+g19
+sa(dp1341
+g2
+S'What kind of wine is Spumante ?'
+p1342
+sg4
+g115
+sa(dp1343
+g2
+S'Who portrayed portly criminologist Carl Hyatt on Checkmate ?'
+p1344
+sg4
+g19
+sa(dp1345
+g2
+S'How do you say I love you in Spanish ?'
+p1346
+sg4
+g140
+sa(dp1347
+g2
+S'What does the name Gina mean ?'
+p1348
+sg4
+g28
+sa(dp1349
+g2
+S'What is the most advanced handheld calculator in the world ?'
+p1350
+sg4
+g274
+sa(dp1351
+g2
+S'How fast is light ?'
+p1352
+sg4
+g745
+sa(dp1353
+g2
+S'What is the belt of low pressure around the equator called ?'
+p1354
+sg4
+g140
+sa(dp1355
+g2
+S'What are shooting stars ?'
+p1356
+sg4
+g28
+sa(dp1357
+g2
+S'Whom did the Chicago Bulls beat in the 1993 championship ?'
+p1358
+sg4
+g22
+sa(dp1359
+g2
+S'When was the first American encyclopedia published ?'
+p1360
+sg4
+g33
+sa(dp1361
+g2
+S"What 's the tallest building in New York City ?"
+p1362
+sg4
+g75
+sa(dp1363
+g2
+S"How is Easter Sunday 's date determined ?"
+p1364
+sg4
+g5
+sa(dp1365
+g2
+S'What is the Motto for the State of Maryland ?'
+p1366
+sg4
+g49
+sa(dp1367
+g2
+S'Who is Desmond Tutu ?'
+p1368
+sg4
+g549
+sa(dp1369
+g2
+S'Where can I find information on the Narragansett Indians and other tribes in Rhode Island ?'
+p1370
+sg4
+g75
+sa(dp1371
+g2
+S'Name a tiger that is extinct .'
+p1372
+sg4
+g13
+sa(dp1373
+g2
+S'How many quarters equal a pound ?'
+p1374
+sg4
+g52
+sa(dp1375
+g2
+S"What kind of books does Fodor 's publish ?"
+p1376
+sg4
+g8
+sa(dp1377
+g2
+S"What are the first names of Rowan and Martin , the stars of TV 's Laugh-In ?"
+p1378
+sg4
+g19
+sa(dp1379
+g2
+S'What chapter of the Bible has the most verses ?'
+p1380
+sg4
+S'What'
+p1381
+sa(dp1382
+g2
+S'Who is the worst US President ever ?'
+p1383
+sg4
+g19
+sa(dp1384
+g2
+S'What Asian leader was known as The Little Brown Saint ?'
+p1385
+sg4
+g19
+sa(dp1386
+g2
+S'What is the abbreviated expression for the National Bureau of Investigation ?'
+p1387
+sg4
+g649
+sa(dp1388
+g2
+S'How fast does the fastest car go ?'
+p1389
+sg4
+g745
+sa(dp1390
+g2
+S'What is the highest mountain in the world ?'
+p1391
+sg4
+g248
+sa(dp1392
+g2
+S'What arch can you see from the Place de la Concorde ?'
+p1393
+sg4
+g75
+sa(dp1394
+g2
+S"Who sings the song `` Drink to me with thine eyes '' by Ben Johnson ?"
+p1395
+sg4
+g19
+sa(dp1396
+g2
+S'How long should a person wash their hands before they are clean ?'
+p1397
+sg4
+g279
+sa(dp1398
+g2
+S'Which way do you turn your Bic to increase the flame - clockwise or counterclockwise ?'
+p1399
+sg4
+g75
+sa(dp1400
+g2
+S'Which is the wealthiest country in the world ?'
+p1401
+sg4
+g124
+sa(dp1402
+g2
+S'How can I find a phone number of someone if I only know their email address ?'
+p1403
+sg4
+g5
+sa(dp1404
+g2
+S'How can you contact play producers and promoters on-line ?'
+p1405
+sg4
+g5
+sa(dp1406
+g2
+S'Who is the monarch of the United Kingdom ?'
+p1407
+sg4
+g19
+sa(dp1408
+g2
+S'What is a fear of passing high objects ?'
+p1409
+sg4
+g203
+sa(dp1410
+g2
+S'What do players try to do when the music stops in a game of musical chairs ?'
+p1411
+sg4
+g49
+sa(dp1412
+g2
+S'What are the top ten most common girl names in the US ?'
+p1413
+sg4
+g19
+sa(dp1414
+g2
+S'Why is black the color of mourning in the West ?'
+p1415
+sg4
+g36
+sa(dp1416
+g2
+S'What is the rarest coin ?'
+p1417
+sg4
+g61
+sa(dp1418
+g2
+S'What Judith Rossner novel was made into a film starring Diane Keaton ?'
+p1419
+sg4
+g8
+sa(dp1420
+g2
+S"Which country is Australia 's largest export market ?"
+p1421
+sg4
+g124
+sa(dp1422
+g2
+S'Where is the Kentucky Horse Park located ?'
+p1423
+sg4
+g75
+sa(dp1424
+g2
+S'What is a fear of parasites ?'
+p1425
+sg4
+g203
+sa(dp1426
+g2
+S'In what Olympic Games did Nadia Comaneci become popular ?'
+p1427
+sg4
+g397
+sa(dp1428
+g2
+S'Who does data collection in tourism ?'
+p1429
+sg4
+g19
+sa(dp1430
+g2
+S'What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?'
+p1431
+sg4
+g19
+sa(dp1432
+g2
+S'What is the leading pecan and peanut growing state ?'
+p1433
+sg4
+g46
+sa(dp1434
+g2
+S'What does a nihilist believe in ?'
+p1435
+sg4
+g49
+sa(dp1436
+g2
+S'What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ?'
+p1437
+sg4
+g49
+sa(dp1438
+g2
+S'In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?'
+p1439
+sg4
+g397
+sa(dp1440
+g2
+S'Who were the four famous founders of United Artists ?'
+p1441
+sg4
+g19
+sa(dp1442
+g2
+S'What 2 statues did France give to other countries ?'
+p1443
+sg4
+g8
+sa(dp1444
+g2
+S'What are amphibians ?'
+p1445
+sg4
+g28
+sa(dp1446
+g2
+S'How many sperm cells are in an average ejaculation ?'
+p1447
+sg4
+g52
+sa(dp1448
+g2
+S"Name the disposable razor that `` costs about 19 cents . ''"
+p1449
+sg4
+g274
+sa(dp1450
+g2
+S'How far do you have to run if you hit a home run ?'
+p1451
+sg4
+g1120
+sa(dp1452
+g2
+S'Who was the only U.S. President to wear a Nazi uniform ?'
+p1453
+sg4
+g19
+sa(dp1454
+g2
+S'Woodrow Wilson served as president of what university ?'
+p1455
+sg4
+g22
+sa(dp1456
+g2
+S'Where are the tropical rain forest distributions ?'
+p1457
+sg4
+g75
+sa(dp1458
+g2
+S"What 's the nickname of oddsmaker Jimmy Snyder ?"
+p1459
+sg4
+g19
+sa(dp1460
+g2
+S'What is the fear of being loved ?'
+p1461
+sg4
+g203
+sa(dp1462
+g2
+S'What was the number of people that Randy Steven Craft was convicted of killing ?'
+p1463
+sg4
+g668
+sa(dp1464
+g2
+S"What was Queen Victoria 's title regarding India ?"
+p1465
+sg4
+g25
+sa(dp1466
+g2
+S'How is a hydrogen bomb different from a nuclear bomb ?'
+p1467
+sg4
+g5
+sa(dp1468
+g2
+S'How far can a man travel in outer space ?'
+p1469
+sg4
+g1120
+sa(dp1470
+g2
+S'Where was Lincoln assassinated ?'
+p1471
+sg4
+g75
+sa(dp1472
+g2
+S'What type of food makes you fat ?'
+p1473
+sg4
+g115
+sa(dp1474
+g2
+S'What is the name of the chronic neurological autoimmune disease which attacks the protein sheath that surrounds nerve cells causing a gradual loss of movement in the body ?'
+p1475
+sg4
+g203
+sa(dp1476
+g2
+S'What was the U.S. highway death toll in 1969 ?'
+p1477
+sg4
+g52
+sa(dp1478
+g2
+S'What kind of animals are Dorsets , Lincolns , Oxfords and Southdowns ?'
+p1479
+sg4
+g13
+sa(dp1480
+g2
+S'What are the shortest and the longest songs ever produced ?'
+p1481
+sg4
+g8
+sa(dp1482
+g2
+S'What letter is to the right of K on a typewriter keyboard ?'
+p1483
+sg4
+g70
+sa(dp1484
+g2
+S"What is the origin and the meaning of the name , `` Hajo ? ''"
+p1485
+sg4
+g49
+sa(dp1486
+g2
+S'What is the plural of gulf ?'
+p1487
+sg4
+g956
+sa(dp1488
+g2
+S'Whose autobiography is titled Yes I Can ?'
+p1489
+sg4
+g19
+sa(dp1490
+g2
+S'What year did the United States pass the Copyright law ?'
+p1491
+sg4
+g33
+sa(dp1492
+g2
+S'What percentage of Americans own their homes ?'
+p1493
+sg4
+g1068
+sa(dp1494
+g2
+S"What 's the first day of the week ?"
+p1495
+sg4
+g33
+sa(dp1496
+g2
+S'What city was President William McKinley shot in ?'
+p1497
+sg4
+g157
+sa(dp1498
+g2
+S"What city has the world 's longest subway system ?"
+p1499
+sg4
+g157
+sa(dp1500
+g2
+S'Who claimed he killed 4 , 280 buffalo as food for the crew building the Kansas Pacific Railway ?'
+p1501
+sg4
+g19
+sa(dp1502
+g2
+S'What is Bombay duck ?'
+p1503
+sg4
+g28
+sa(dp1504
+g2
+S'How many degrees cooler is the inside of a cucumber than the air outside ?'
+p1505
+sg4
+g52
+sa(dp1506
+g2
+S"What double talking `` professor '' holds a doctorate in Nothing ?"
+p1507
+sg4
+g19
+sa(dp1508
+g2
+S'What are the five most expensive cities in the world ?'
+p1509
+sg4
+g157
+sa(dp1510
+g2
+S'What 19th-century writer had a country estate on the Hudson dubbed Sunnyside ?'
+p1511
+sg4
+g19
+sa(dp1512
+g2
+S'How many layers of yellow paint is a Faber Mongol pencil lucky enough to be sprayed with ?'
+p1513
+sg4
+g52
+sa(dp1514
+g2
+S'What is a virtual IP address ?'
+p1515
+sg4
+g28
+sa(dp1516
+g2
+S'What was the name of the cook on Rawhide ?'
+p1517
+sg4
+g19
+sa(dp1518
+g2
+S'What county is Chicago in ?'
+p1519
+sg4
+g75
+sa(dp1520
+g2
+S'What is the wingspan of a condor ?'
+p1521
+sg4
+g1120
+sa(dp1522
+g2
+S'What facial feature typically contains about 55 hairs ?'
+p1523
+sg4
+g49
+sa(dp1524
+g2
+S'Who was named Admiral of the Ocean Seas and Viceroy and Governor General of all the islands he might discover , and also granted 10-?? of all profits of his voyage .'
+p1525
+sg4
+g19
+sa(dp1526
+g2
+S'How can I transport files from one computer to another ?'
+p1527
+sg4
+g5
+sa(dp1528
+g2
+S"What 's the literary term for a play on words ?"
+p1529
+sg4
+g140
+sa(dp1530
+g2
+S'What color were their horses ?'
+p1531
+sg4
+g137
+sa(dp1532
+g2
+S'What does an average daycare provider get paid in New England ?'
+p1533
+sg4
+g265
+sa(dp1534
+g2
+S"What author landed a 468-pound marlin without harness in the early 193 's ?"
+p1535
+sg4
+g19
+sa(dp1536
+g2
+S'How many Americans fought for the British in the American Revolution ?'
+p1537
+sg4
+g52
+sa(dp1538
+g2
+S'What kind of education do I need to become a flight attendant ?'
+p1539
+sg4
+g61
+sa(dp1540
+g2
+S'What are the two languages of Malta ?'
+p1541
+sg4
+g989
+sa(dp1542
+g2
+S'How many oceans are there and name them ?'
+p1543
+sg4
+g52
+sa(dp1544
+g2
+S'What happened during the Blackhawk Indian war of 1832 ?'
+p1545
+sg4
+g49
+sa(dp1546
+g2
+S'How many pairs of legs does a lobster have ?'
+p1547
+sg4
+g52
+sa(dp1548
+g2
+S'What does the Latin ante mortem mean ?'
+p1549
+sg4
+g28
+sa(dp1550
+g2
+S'What does the name Shawn mean ?'
+p1551
+sg4
+g28
+sa(dp1552
+g2
+S'Where is the Danube ?'
+p1553
+sg4
+g75
+sa(dp1554
+g2
+S'What lawyer won the largest divorce settlement , $85 million , in U.S. history for Sheika Dena Al-Farri ?'
+p1555
+sg4
+g19
+sa(dp1556
+g2
+S'What do you call a group of geese ?'
+p1557
+sg4
+g13
+sa(dp1558
+g2
+S'Who delivered his last newscast on March 6 , 1981 ?'
+p1559
+sg4
+g19
+sa(dp1560
+g2
+S"How many times has `` Louie , Louie '' been recorded ?"
+p1561
+sg4
+g52
+sa(dp1562
+g2
+S'How is Answers.com different from KnowPost.com ?'
+p1563
+sg4
+g5
+sa(dp1564
+g2
+S'What is the longest place name in the U.S. ?'
+p1565
+sg4
+g75
+sa(dp1566
+g2
+S'What percent liked Thatcher after she had been in power for a decade ?'
+p1567
+sg4
+g1068
+sa(dp1568
+g2
+S'Where does Buzz Aldrin want to build a permanent , manned space station ?'
+p1569
+sg4
+g75
+sa(dp1570
+g2
+S"What was Mel Gibson 's first movie ?"
+p1571
+sg4
+g8
+sa(dp1572
+g2
+S'Why was the L.A. office of Shea and Gould closed ?'
+p1573
+sg4
+g36
+sa(dp1574
+g2
+S'How do I start a bank ?'
+p1575
+sg4
+g5
+sa(dp1576
+g2
+S'How do Ouija Boards work ?'
+p1577
+sg4
+g5
+sa(dp1578
+g2
+S'What horse did Zorro ride ?'
+p1579
+sg4
+g13
+sa(dp1580
+g2
+S'How do you get a broken cork out of a bottle ?'
+p1581
+sg4
+g5
+sa(dp1582
+g2
+S'Where can I find correct tabs for Third Eye Blind songs ?'
+p1583
+sg4
+g75
+sa(dp1584
+g2
+S'How do you determine heating requirements for your home ?'
+p1585
+sg4
+g5
+sa(dp1586
+g2
+S"What former major-league left-handed baseball pitcher was known as `` Space Man '' ?"
+p1587
+sg4
+g19
+sa(dp1588
+g2
+S"Which hair care product told us `` hate that gray , wash it away '' ?"
+p1589
+sg4
+g274
+sa(dp1590
+g2
+S'Why did the chicken cross the road ?'
+p1591
+sg4
+g36
+sa(dp1592
+g2
+S"What was Michelangelo 's last name ?"
+p1593
+sg4
+g19
+sa(dp1594
+g2
+S'Who is Barbara Jordan ?'
+p1595
+sg4
+g549
+sa(dp1596
+g2
+S'Who was the Democratic nominee in the American presidential election ?'
+p1597
+sg4
+g19
+sa(dp1598
+g2
+S"What was Connecticut 's first constitution called ?"
+p1599
+sg4
+g8
+sa(dp1600
+g2
+S'What historical event happened in Dogtown in 1899 ?'
+p1601
+sg4
+g43
+sa(dp1602
+g2
+S'What is being done about the millennium bug ?'
+p1603
+sg4
+g28
+sa(dp1604
+g2
+S'What was the claim to fame of King Camp Gillette ?'
+p1605
+sg4
+g36
+sa(dp1606
+g2
+S'What is the most common kind of skin cancer in the U.S. ?'
+p1607
+sg4
+g203
+sa(dp1608
+g2
+S'What is Olestra ?'
+p1609
+sg4
+g28
+sa(dp1610
+g2
+S'What Asian country has a bill of rights for cows ?'
+p1611
+sg4
+g124
+sa(dp1612
+g2
+S'How many fingers are used to draw a bow ?'
+p1613
+sg4
+g52
+sa(dp1614
+g2
+S'What are two plants that clothes are made from ?'
+p1615
+sg4
+g472
+sa(dp1616
+g2
+S'When was Hurricane Hugo ?'
+p1617
+sg4
+g33
+sa(dp1618
+g2
+S'What is the most heavily caffeinated soft drink ?'
+p1619
+sg4
+g115
+sa(dp1620
+g2
+S'What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?'
+p1621
+sg4
+g19
+sa(dp1622
+g2
+S"What was the price of Varian Associates ' vacuum products division ?"
+p1623
+sg4
+g265
+sa(dp1624
+g2
+S"When was `` the Great Depression '' ?"
+p1625
+sg4
+g33
+sa(dp1626
+g2
+S'What language is mostly spoken in Brazil ?'
+p1627
+sg4
+g989
+sa(dp1628
+g2
+S'What college produced the most winning Super Bowl quarterbacks ?'
+p1629
+sg4
+g22
+sa(dp1630
+g2
+S"How do you solve `` Rubik 's Cube '' ?"
+p1631
+sg4
+g5
+sa(dp1632
+g2
+S'What is prepared mustard ?'
+p1633
+sg4
+g28
+sa(dp1634
+g2
+S"What classical Spanish writer warned : `` All that glitters is not gold '' ?"
+p1635
+sg4
+g19
+sa(dp1636
+g2
+S"What does `` antidisestablishmentarianism '' mean ?"
+p1637
+sg4
+g28
+sa(dp1638
+g2
+S"What actor married John F. Kennedy 's sister ?"
+p1639
+sg4
+g19
+sa(dp1640
+g2
+S'What does a topophobic actor suffer from ?'
+p1641
+sg4
+g203
+sa(dp1642
+g2
+S'Who fired Maria Ybarra from her position in San Diego council ?'
+p1643
+sg4
+g19
+sa(dp1644
+g2
+S'The italian artist , Maurizio Pellegrin , is how old ?'
+p1645
+sg4
+g279
+sa(dp1646
+g2
+S'What type of hunting are retrievers used for ?'
+p1647
+sg4
+g61
+sa(dp1648
+g2
+S'What is Colin Powell best known for ?'
+p1649
+sg4
+g36
+sa(dp1650
+g2
+S'Who was the first black golfer to tee off in the Masters ?'
+p1651
+sg4
+g19
+sa(dp1652
+g2
+S"What city is the setting for Puccini 's opera La Boheme ?"
+p1653
+sg4
+g157
+sa(dp1654
+g2
+S'What U.S. President showed a fondness for munching on bee pollen bars ?'
+p1655
+sg4
+g19
+sa(dp1656
+g2
+S'What is measured in curies ?'
+p1657
+sg4
+g28
+sa(dp1658
+g2
+S'Whose cover is that of an employee of Universal Import and Export ?'
+p1659
+sg4
+g19
+sa(dp1660
+g2
+S"What former president 's daughter has written a book titled Murder in the White House ?"
+p1661
+sg4
+g19
+sa(dp1662
+g2
+S"What fictional character is known as the `` melancholy Dane '' ?"
+p1663
+sg4
+g19
+sa(dp1664
+g2
+S'Italy is the largest producer of what ?'
+p1665
+sg4
+g274
+sa(dp1666
+g2
+S'What longtime game show host dropped dead while jogging in Central Park in 1984 ?'
+p1667
+sg4
+g19
+sa(dp1668
+g2
+S"What is the meaning of W.B. Yeat 's poem , `` The Three Hermits ? ''"
+p1669
+sg4
+g28
+sa(dp1670
+g2
+S"Who were the `` filthiest people alive ? ''"
+p1671
+sg4
+g19
+sa(dp1672
+g2
+S"What infectious disease is the world 's deadliest ?"
+p1673
+sg4
+g203
+sa(dp1674
+g2
+S'What is Spumante ?'
+p1675
+sg4
+g28
+sa(dp1676
+g2
+S'In what year did Ireland elect its first woman president ?'
+p1677
+sg4
+g33
+sa(dp1678
+g2
+S'What is an isthmus ?'
+p1679
+sg4
+g28
+sa(dp1680
+g2
+S'What was the name of the orca that died of a fungal infection ?'
+p1681
+sg4
+g13
+sa(dp1682
+g2
+S'Where is Mozambique located ?'
+p1683
+sg4
+g75
+sa(dp1684
+g2
+S"What is Mississippi 's state animal ?"
+p1685
+sg4
+g13
+sa(dp1686
+g2
+S"What 's the origin of the word ` news ' ?"
+p1687
+sg4
+g49
+sa(dp1688
+g2
+S'What did Dan Aykroyd and John Belushi quit Saturday Night Live to become ?'
+p1689
+sg4
+g61
+sa(dp1690
+g2
+S'How many months does a normal human pregnancy last ?'
+p1691
+sg4
+g52
+sa(dp1692
+g2
+S'How do fuel injectors work ?'
+p1693
+sg4
+g5
+sa(dp1694
+g2
+S"How can your school march in the Macy 's Thanksgiving Parade ?"
+p1695
+sg4
+g5
+sa(dp1696
+g2
+S"What is the real name of disc jockey `` Wolfman Jack '' ?"
+p1697
+sg4
+g19
+sa(dp1698
+g2
+S'What Italian liner was hijacked in 1985 ?'
+p1699
+sg4
+S'What'
+p1700
+sa(dp1701
+g2
+S'What city houses the U.S. headquarters of Procter and Gamble ?'
+p1702
+sg4
+g157
+sa(dp1703
+g2
+S"What soap was touted as being `` for people who like people '' ?"
+p1704
+sg4
+g274
+sa(dp1705
+g2
+S'How much was the minimum wage in 1991 ?'
+p1706
+sg4
+g265
+sa(dp1707
+g2
+S'What does NAFTA stand for ?'
+p1708
+sg4
+g16
+sa(dp1709
+g2
+S'Who invented silly putty ?'
+p1710
+sg4
+g19
+sa(dp1711
+g2
+S'What new middle school was built in Philadelphia , Pennsylvania last year ?'
+p1712
+sg4
+g22
+sa(dp1713
+g2
+S'Who patented the first phonograph ?'
+p1714
+sg4
+g19
+sa(dp1715
+g2
+S'What are some tips for building a fire in a fireplace ?'
+p1716
+sg4
+g481
+sa(dp1717
+g2
+S'What do manatees eat ?'
+p1718
+sg4
+g115
+sa(dp1719
+g2
+S'How do you say 2 in Latin ?'
+p1720
+sg4
+g140
+sa(dp1721
+g2
+S'What were popular songs and types of songs in the 1920s ?'
+p1722
+sg4
+g8
+sa(dp1723
+g2
+S'How many Vietnamese were there in the Soviet Union ?'
+p1724
+sg4
+g52
+sa(dp1725
+g2
+S"What is November 's birthstone ?"
+p1726
+sg4
+g61
+sa(dp1727
+g2
+S'What is a Certified Nurse Midwife ?'
+p1728
+sg4
+g28
+sa(dp1729
+g2
+S'On average , how many miles are there to the moon ?'
+p1730
+sg4
+g52
+sa(dp1731
+g2
+S'Who created private detective Philip Marlowe ?'
+p1732
+sg4
+g19
+sa(dp1733
+g2
+S'What Boris Pasternak book sold 5 , 0 copies to become the fiction best-seller of 1958 ?'
+p1734
+sg4
+g8
+sa(dp1735
+g2
+S"What is the origin of the expression `` tout de suite '' ?"
+p1736
+sg4
+g49
+sa(dp1737
+g2
+S'What is the longest English word ?'
+p1738
+sg4
+g956
+sa(dp1739
+g2
+S'What is the purpose of a car bra ?'
+p1740
+sg4
+g36
+sa(dp1741
+g2
+S'What is D.B. Cooper known for ?'
+p1742
+sg4
+g36
+sa(dp1743
+g2
+S'Who is Colin Powell ?'
+p1744
+sg4
+g549
+sa(dp1745
+g2
+S'What species is a colt ?'
+p1746
+sg4
+g13
+sa(dp1747
+g2
+S'What is the full name of the PLO ?'
+p1748
+sg4
+g16
+sa(dp1749
+g2
+S'What is the smallest country in Africa ?'
+p1750
+sg4
+g124
+sa(dp1751
+g2
+S"Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?"
+p1752
+sg4
+g19
+sa(dp1753
+g2
+S'What age followed the Bronze Age ?'
+p1754
+sg4
+g43
+sa(dp1755
+g2
+S'What is her profession ?'
+p1756
+sg4
+g25
+sa(dp1757
+g2
+S'What is the full name of the man who invented the multicolored game cube that has 42.3 quintillion potential combinations ?'
+p1758
+sg4
+g19
+sa(dp1759
+g2
+S'What does the word LASER mean ?'
+p1760
+sg4
+g16
+sa(dp1761
+g2
+S"What does the name `` Anthony '' mean ?"
+p1762
+sg4
+g28
+sa(dp1763
+g2
+S"Who was Lauren Bacall 's first husband ?"
+p1764
+sg4
+g19
+sa(dp1765
+g2
+S'What is a rhomboideus minor ?'
+p1766
+sg4
+g28
+sa(dp1767
+g2
+S'How many hands does Bjorn Borg use when hitting his forehand ?'
+p1768
+sg4
+g52
+sa(dp1769
+g2
+S'How many people died on D-Day ?'
+p1770
+sg4
+g52
+sa(dp1771
+g2
+S"What U.S. Congressman said : `` Keep the faith , baby '' ."
+p1772
+sg4
+g19
+sa(dp1773
+g2
+S'Who created the character of Scrooge ?'
+p1774
+sg4
+g19
+sa(dp1775
+g2
+S'What is the student population at the University of Massachusetts in Amherst ?'
+p1776
+sg4
+g668
+sa(dp1777
+g2
+S'Where is Windsor Castle ?'
+p1778
+sg4
+g75
+sa(dp1779
+g2
+S'When did the Dow first reach ?'
+p1780
+sg4
+g33
+sa(dp1781
+g2
+S'Why were people recruited for the Vietnam War ?'
+p1782
+sg4
+g36
+sa(dp1783
+g2
+S'What party was Winston Churchill a member of ?'
+p1784
+sg4
+g22
+sa(dp1785
+g2
+S"What American League baseball team 's worst finish between 1926 and 1964 was fourth ?"
+p1786
+sg4
+g22
+sa(dp1787
+g2
+S'Where can I find the names of all the 15 Pokemon ?'
+p1788
+sg4
+g75
+sa(dp1789
+g2
+S'What state does Martha Stewart live in ?'
+p1790
+sg4
+g46
+sa(dp1791
+g2
+S'Which killer whale died at Sea World of a fungal infection ?'
+p1792
+sg4
+g13
+sa(dp1793
+g2
+S'What are the Benelux countries ?'
+p1794
+sg4
+g124
+sa(dp1795
+g2
+S"Where 's the Petrified Forest ?"
+p1796
+sg4
+g75
+sa(dp1797
+g2
+S'What is a language spoken by the Sioux ?'
+p1798
+sg4
+g989
+sa(dp1799
+g2
+S'Where is Tornado Alley ?'
+p1800
+sg4
+g75
+sa(dp1801
+g2
+S"Who was the author of `` John Brown 's Body '' ?"
+p1802
+sg4
+g19
+sa(dp1803
+g2
+S"What American poet wrote : `` Good fences make good neighbors '' ?"
+p1804
+sg4
+g19
+sa(dp1805
+g2
+S'What state in the U.S. has the most blacks ?'
+p1806
+sg4
+g46
+sa(dp1807
+g2
+S'Why are electric cars less efficient in the northeast than in California ?'
+p1808
+sg4
+g36
+sa(dp1809
+g2
+S'What was the occupation of Mandy Rice-Davies ?'
+p1810
+sg4
+g25
+sa(dp1811
+g2
+S'What is the city in which Maurizio Pellegrin lives called ?'
+p1812
+sg4
+g157
+sa(dp1813
+g2
+S'Who painted the Sistine Chapel ?'
+p1814
+sg4
+g19
+sa(dp1815
+g2
+S'Name the various costumed personas of Dr. Henry Pym .'
+p1816
+sg4
+g19
+sa(dp1817
+g2
+S"What breed of dog was the `` Little Rascals '' dog ?"
+p1818
+sg4
+g13
+sa(dp1819
+g2
+S'What are the living conditions in Cuba ?'
+p1820
+sg4
+g49
+sa(dp1821
+g2
+S'What color are school buses ?'
+p1822
+sg4
+g137
+sa(dp1823
+g2
+S'What is the oldest website on the Internet ?'
+p1824
+sg4
+g75
+sa(dp1825
+g2
+S'What events happened January 26 , 1978 ?'
+p1826
+sg4
+g43
+sa(dp1827
+g2
+S'What explorers followed Columbus to the Americas ?'
+p1828
+sg4
+g19
+sa(dp1829
+g2
+S"Who is actress Goldie Hawn 's current actor boyfriend ?"
+p1830
+sg4
+g19
+sa(dp1831
+g2
+S'Who banned Peter Rose from baseball for betting on games ?'
+p1832
+sg4
+g19
+sa(dp1833
+g2
+S'What are the seven virtues ?'
+p1834
+sg4
+g28
+sa(dp1835
+g2
+S"What other name were the `` Little Rascals '' known as ?"
+p1836
+sg4
+g140
+sa(dp1837
+g2
+S'When was the San Francisco fire ?'
+p1838
+sg4
+g33
+sa(dp1839
+g2
+S'What is a fear of food ?'
+p1840
+sg4
+g203
+sa(dp1841
+g2
+S'How many casinos are in Atlantic City , NJ ?'
+p1842
+sg4
+g52
+sa(dp1843
+g2
+S'What year did the Vietnam War end ?'
+p1844
+sg4
+g33
+sa(dp1845
+g2
+S"What are the names of Richard Nixon 's two daughters ?"
+p1846
+sg4
+g19
+sa(dp1847
+g2
+S"What 's the word for broken glass or sharp rocks embedded in cement on top of a wall ?"
+p1848
+sg4
+g956
+sa(dp1849
+g2
+S'What is the chromosome number of an elephant ?'
+p1850
+sg4
+g52
+sa(dp1851
+g2
+S'What organization was founded by the Rev. Jerry Falwell ?'
+p1852
+sg4
+g22
+sa(dp1853
+g2
+S"What 's the longest river in the world ?"
+p1854
+sg4
+g75
+sa(dp1855
+g2
+S'Which soft drink does Madonna advertise for ?'
+p1856
+sg4
+g115
+sa(dp1857
+g2
+S'What company is being bought by Yahoo and how much is the deal worth ?'
+p1858
+sg4
+g22
+sa(dp1859
+g2
+S"When was Berlin 's Brandenburg gate erected ?"
+p1860
+sg4
+g33
+sa(dp1861
+g2
+S'How many double-word-score spaces are there on a Scrabble Crossword Game board ?'
+p1862
+sg4
+g52
+sa(dp1863
+g2
+S'What year did Germany sign its nonaggression pact with the Soviet Union ?'
+p1864
+sg4
+g33
+sa(dp1865
+g2
+S'What mountain range is traversed by the highest railroad in the world ?'
+p1866
+sg4
+g248
+sa(dp1867
+g2
+S"Why were the American soldiers in WWI called `` Doughboys ''"
+p1868
+sg4
+g36
+sa(dp1869
+g2
+S'Who was nicknamed The Little Corporal ?'
+p1870
+sg4
+g19
+sa(dp1871
+g2
+S'How many CDs has Garth Brooks sold ?'
+p1872
+sg4
+g52
+sa(dp1873
+g2
+S'Name the vessel used by the Atari Force in the DC comics .'
+p1874
+sg4
+g1700
+sa(dp1875
+g2
+S'Where are the leading medical groups specializing in lung diseases ?'
+p1876
+sg4
+g75
+sa(dp1877
+g2
+S'How can I find online spelling , and punctuation drills for my 6th grader ?'
+p1878
+sg4
+g5
+sa(dp1879
+g2
+S"What 's the sacred river of India ?"
+p1880
+sg4
+g75
+sa(dp1881
+g2
+S"What is Stefan Edberg 's native country ?"
+p1882
+sg4
+g124
+sa(dp1883
+g2
+S'What is the only gland in humans that can regenerate itself ?'
+p1884
+sg4
+g182
+sa(dp1885
+g2
+S'How many Gutenberg Bibles are there ?'
+p1886
+sg4
+g52
+sa(dp1887
+g2
+S'Name the largest country in South America .'
+p1888
+sg4
+g124
+sa(dp1889
+g2
+S'What astronomical phenomenon takes place in Jan. 1999 ?'
+p1890
+sg4
+g43
+sa(dp1891
+g2
+S'What information can you get me on Fairground Park in St. Louis'
+p1892
+sg4
+g49
+sa(dp1893
+g2
+S"What was American folk hero John Chapman 's nickname ?"
+p1894
+sg4
+g19
+sa(dp1895
+g2
+S'What is the difference between a median and a mean ?'
+p1896
+sg4
+g49
+sa(dp1897
+g2
+S'What was the top box office movie in April 1998 ?'
+p1898
+sg4
+g8
+sa(dp1899
+g2
+S'What makes thunder ?'
+p1900
+sg4
+g36
+sa(dp1901
+g2
+S"What author did photographer Yousuf Karsh call `` the shiest man I ever met '' ?"
+p1902
+sg4
+g19
+sa(dp1903
+g2
+S'Which is the largest clock , diameter wise , in Europe ?'
+p1904
+sg4
+g61
+sa(dp1905
+g2
+S'What plant is rum made from ?'
+p1906
+sg4
+g472
+sa(dp1907
+g2
+S'What country are Godiva chocolates from ?'
+p1908
+sg4
+g124
+sa(dp1909
+g2
+S'Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?'
+p1910
+sg4
+g19
+sa(dp1911
+g2
+S'Which condiment was once sold as a patent medicine ?'
+p1912
+sg4
+g115
+sa(dp1913
+g2
+S'What U.S. state records the least rainfall ?'
+p1914
+sg4
+g46
+sa(dp1915
+g2
+S'Why did the world enter a global depression in 1929 ?'
+p1916
+sg4
+g36
+sa(dp1917
+g2
+S'What was archy , and mehitabel ?'
+p1918
+sg4
+g28
+sa(dp1919
+g2
+S"What Texas city got its name from the Spanish for `` yellow '' ?"
+p1920
+sg4
+g157
+sa(dp1921
+g2
+S'What are the chemicals used in glowsticks ?'
+p1922
+sg4
+g302
+sa(dp1923
+g2
+S'What country did the Nile River originate in ?'
+p1924
+sg4
+g124
+sa(dp1925
+g2
+S'What color are tennis balls ?'
+p1926
+sg4
+g137
+sa(dp1927
+g2
+S'What barroom judge called himself The Law West of the Pecos ?'
+p1928
+sg4
+g19
+sa(dp1929
+g2
+S'What excuse did the NATO people give for hitting the Chinese embassy ?'
+p1930
+sg4
+g49
+sa(dp1931
+g2
+S'Who was President of Costa Rica in 1994 ?'
+p1932
+sg4
+g19
+sa(dp1933
+g2
+S'What sports event is Meyer Wolfsheim supposed to have fixed in The Great Gatsby ?'
+p1934
+sg4
+g397
+sa(dp1935
+g2
+S'What country has the best defensive position in the board game Diplomacy ?'
+p1936
+sg4
+g124
+sa(dp1937
+g2
+S'What two countries share the Khyber Pass ?'
+p1938
+sg4
+g124
+sa(dp1939
+g2
+S'Who was chairman of the Senate select committee that tried to get to the bottom of Watergate ?'
+p1940
+sg4
+g19
+sa(dp1941
+g2
+S'What is the origin of the surname of Braun ?'
+p1942
+sg4
+g49
+sa(dp1943
+g2
+S'What card game has variations called Canfield , Klondike and Spider ?'
+p1944
+sg4
+g397
+sa(dp1945
+g2
+S'What is Australia Day ?'
+p1946
+sg4
+g28
+sa(dp1947
+g2
+S"What mammal of North America is the world 's longest-lived for its size ?"
+p1948
+sg4
+g13
+sa(dp1949
+g2
+S'What was the Chivington Massacre ?'
+p1950
+sg4
+g28
+sa(dp1951
+g2
+S"What actor starred in 1980 's Blue Lagoon , 1982 's The Pirate Movie and 1983 's A Night in Heaven ?"
+p1952
+sg4
+g19
+sa(dp1953
+g2
+S'How many home runs did Lou Gehrig have during his career ?'
+p1954
+sg4
+g52
+sa(dp1955
+g2
+S'In what city is the headquarters of Sinn Fein ?'
+p1956
+sg4
+g157
+sa(dp1957
+g2
+S'Where can I find information on George Bush ?'
+p1958
+sg4
+g75
+sa(dp1959
+g2
+S'Who is the voice of Miss Piggy ?'
+p1960
+sg4
+g19
+sa(dp1961
+g2
+S'What is the dialogue circle in cartoons called ?'
+p1962
+sg4
+g140
+sa(dp1963
+g2
+S'What does the word camaro mean , from the GM car the Camaro ?'
+p1964
+sg4
+g28
+sa(dp1965
+g2
+S'Who replaced Bert Parks as the host of The Miss America Pageant ?'
+p1966
+sg4
+g19
+sa(dp1967
+g2
+S"How many boys play the game in Winslow Homer 's 1872 painting Snap the Whip ?"
+p1968
+sg4
+g52
+sa(dp1969
+g2
+S'What is the AIM-54C Phoenix ?'
+p1970
+sg4
+g28
+sa(dp1971
+g2
+S'When are sheep shorn ?'
+p1972
+sg4
+g33
+sa(dp1973
+g2
+S'What sport is Chris Jogis a top player of ?'
+p1974
+sg4
+g397
+sa(dp1975
+g2
+S"What 's the second-largest island in the world ?"
+p1976
+sg4
+g75
+sa(dp1977
+g2
+S'What is the definition of low island ?'
+p1978
+sg4
+g28
+sa(dp1979
+g2
+S'What century does Captain Video live in ?'
+p1980
+sg4
+g33
+sa(dp1981
+g2
+S'What types of water pollution are there ?'
+p1982
+sg4
+g61
+sa(dp1983
+g2
+S'How many astronauts manned each Project Mercury flight ?'
+p1984
+sg4
+g52
+sa(dp1985
+g2
+S'What soft drink would provide me with the biggest intake of caffeine ?'
+p1986
+sg4
+g115
+sa(dp1987
+g2
+S"What 's the name of a golf course in Myrtle Beach ?"
+p1988
+sg4
+g61
+sa(dp1989
+g2
+S'What are some of the significant historical events of the 1990s ?'
+p1990
+sg4
+g43
+sa(dp1991
+g2
+S'Name the only extant trilogy of classical Greek plays .'
+p1992
+sg4
+g8
+sa(dp1993
+g2
+S'Where is Logan Airport ?'
+p1994
+sg4
+g75
+sa(dp1995
+g2
+S'What is the difference between Neoclassical art and Romanticism art ?'
+p1996
+sg4
+g49
+sa(dp1997
+g2
+S'Who was the first person inducted into the U.S. Swimming Hall of Fame ?'
+p1998
+sg4
+g19
+sa(dp1999
+g2
+S'What golfer has been called Ohio Fats and Blobbo ?'
+p2000
+sg4
+g19
+sa(dp2001
+g2
+S'Who murdered Leno and Rosemary LaBianca on August 1'
+p2002
+sg4
+g19
+sa(dp2003
+g2
+S'What is the average cost for four years of medical school ?'
+p2004
+sg4
+g265
+sa(dp2005
+g2
+S'What does God create in the first sentence of the Bible ?'
+p2006
+sg4
+g61
+sa(dp2007
+g2
+S'Which of the following men was not married to Rita Hayworth ?'
+p2008
+sg4
+g19
+sa(dp2009
+g2
+S'What is the current ticket fare from from Cairo to Barbados ?'
+p2010
+sg4
+g265
+sa(dp2011
+g2
+S'What does NN O `` mean when used as a prefix in Irish surnames ?'
+p2012
+sg4
+g16
+sa(dp2013
+g2
+S'How do you find oxidation numbers ?'
+p2014
+sg4
+g5
+sa(dp2015
+g2
+S'What is the state nickname of Mississippi ?'
+p2016
+sg4
+g46
+sa(dp2017
+g2
+S'What is Black Hills , South Dakota most famous for ?'
+p2018
+sg4
+g36
+sa(dp2019
+g2
+S'What 1966 boob tube bomb took astronauts back to prehistoric times ?'
+p2020
+sg4
+g8
+sa(dp2021
+g2
+S'How many students attend the University of Massachusetts ?'
+p2022
+sg4
+g52
+sa(dp2023
+g2
+S"Who said , `` I shall return . '' during World War Two ?"
+p2024
+sg4
+g19
+sa(dp2025
+g2
+S'What holidays are celebrated in Ireland ?'
+p2026
+sg4
+g43
+sa(dp2027
+g2
+S'Who portrayed Etta Place , companion to Butch Cassidey and the Sundance Kid ?'
+p2028
+sg4
+g19
+sa(dp2029
+g2
+S'What are the Greek numerals ?'
+p2030
+sg4
+g28
+sa(dp2031
+g2
+S"What 's the name of the temple that is located near the capital city of Laos ?"
+p2032
+sg4
+g75
+sa(dp2033
+g2
+S'What is a fear of sleep ?'
+p2034
+sg4
+g203
+sa(dp2035
+g2
+S'What auto race was Wilbur Reed the first to win three times ?'
+p2036
+sg4
+g397
+sa(dp2037
+g2
+S'What are the most common breeding birds in the U.S. ?'
+p2038
+sg4
+g13
+sa(dp2039
+g2
+S"What was organized as a Confederate veterans ' social club in Pulaski , in Tennessee , in 1866 ?"
+p2040
+sg4
+g43
+sa(dp2041
+g2
+S'How do you look up criminal records on the Internet ?'
+p2042
+sg4
+g5
+sa(dp2043
+g2
+S'Where is the actress , Marion Davies , buried ?'
+p2044
+sg4
+g75
+sa(dp2045
+g2
+S'What is an example of an actual case of using the Fourteenth Amendment ?'
+p2046
+sg4
+g49
+sa(dp2047
+g2
+S'Who was the Charlie perfume woman ?'
+p2048
+sg4
+g19
+sa(dp2049
+g2
+S"Who portrayed `` Rosanne Rosanna-Dana '' on the television show `` Saturday Night Live '' ?"
+p2050
+sg4
+g19
+sa(dp2051
+g2
+S'Are lizards small?'
+p2052
+sg4
+S'Affirmation'
+p2053
+sa(dp2054
+g2
+S'Are apples red fruit?'
+p2055
+sg4
+g2053
+sa(dp2056
+g2
+S'Are muscles needed to move our body?'
+p2057
+sg4
+g2053
+sa(dp2058
+g2
+S'Are scoops of ice cream sweet?'
+p2059
+sg4
+g2053
+sa(dp2060
+g2
+S'Are bananas and oranges sweet vegetables?'
+p2061
+sg4
+g2053
+sa(dp2062
+g2
+S'Are dogs and cats animals that live in the jungle?'
+p2063
+sg4
+g2053
+sa(dp2064
+g2
+S'Are roses tall trees?'
+p2065
+sg4
+g2053
+sa(dp2066
+g2
+S'Are wild animals dangerous?'
+p2067
+sg4
+g2053
+sa(dp2068
+g2
+S'Are coffee and hot chocolate cold drinks?'
+p2069
+sg4
+g2053
+sa(dp2070
+g2
+S'Are shovels something you would use to dig a hole with?'
+p2071
+sg4
+g2053
+sa(dp2072
+g2
+S'Are computers used to brush your teeth with?'
+p2073
+sg4
+g2053
+sa(dp2074
+g2
+S'Are fruits and vegetables healthy to eat?'
+p2075
+sg4
+g2053
+sa(dp2076
+g2
+S'Are musicians and artists creative?'
+p2077
+sg4
+g2053
+sa(dp2078
+g2
+S'Are pencils and markers used to write on a whiteboard?'
+p2079
+sg4
+g2053
+sa(dp2080
+g2
+S'Are Spanish and German different languages?'
+p2081
+sg4
+g2053
+sa(dp2082
+g2
+S'Are cars used to drive on the water?'
+p2083
+sg4
+g2053
+sa(dp2084
+g2
+S'Are rattlesnakes poisonous?'
+p2085
+sg4
+g2053
+sa(dp2086
+g2
+S'Are band-aids used for healing?'
+p2087
+sg4
+g2053
+sa(dp2088
+g2
+S'Are umbrellas used to keep you wet?'
+p2089
+sg4
+g2053
+sa(dp2090
+g2
+S'Are the letters "d" and "s" in the word "dressing"?'
+p2091
+sg4
+g2053
+sa(dp2092
+g2
+S'Are flies and robins small insects?'
+p2093
+sg4
+g2053
+sa(dp2094
+g2
+S'Are clocks and bikes used to tell time?'
+p2095
+sg4
+g2053
+sa(dp2096
+g2
+S'Are violins and pianos musical instruments?'
+p2097
+sg4
+g2053
+sa(dp2098
+g2
+S'Are paint and syrup used to take a bath in?'
+p2099
+sg4
+g2053
+sa(dp2100
+g2
+S'Are aspirin and tylenol pain relievers?'
+p2101
+sg4
+g2053
+sa(dp2102
+g2
+S'Are airplanes flown inside?'
+p2103
+sg4
+g2053
+sa(dp2104
+g2
+S'Are pillows and mattresses used to sleep on?'
+p2105
+sg4
+g2053
+sa(dp2106
+g2
+S'Are shoes worn over the top of socks?'
+p2107
+sg4
+g2053
+sa(dp2108
+g2
+S'Are football and baseball types of food?'
+p2109
+sg4
+g2053
+sa(dp2110
+g2
+S'Are chips and pretzels salty?'
+p2111
+sg4
+g2053
+sa(dp2112
+g2
+S'Are houses more than $50 dollars?'
+p2113
+sg4
+g2053
+sa(dp2114
+g2
+S'Are lasagna and spaghetti Chinese dishes?'
+p2115
+sg4
+g2053
+sa(dp2116
+g2
+S'Are peanuts made into jam?'
+p2117
+sg4
+g2053
+sa(dp2118
+g2
+S'Are ovens used to freeze things?'
+p2119
+sg4
+g2053
+sa(dp2120
+g2
+S'Are there 80 minutes in an hour?'
+p2121
+sg4
+g2053
+sa(dp2122
+g2
+S'Can pigs walk on two feet?'
+p2123
+sg4
+g2053
+sa(dp2124
+g2
+S'Can you touch your elbow with your nose?'
+p2125
+sg4
+g2053
+sa(dp2126
+g2
+S'Can you fry vegetables in a pan?'
+p2127
+sg4
+g2053
+sa(dp2128
+g2
+S'Can you brush your teeth with a shoe?'
+p2129
+sg4
+g2053
+sa(dp2130
+g2
+S'Can you stretch a rock?'
+p2131
+sg4
+g2053
+sa(dp2132
+g2
+S'Can you grow a mustache on your foot?'
+p2133
+sg4
+g2053
+sa(dp2134
+g2
+S'Can you sleep in the day time?'
+p2135
+sg4
+g2053
+sa(dp2136
+g2
+S'Can you ride a bike without a helmet?'
+p2137
+sg4
+g2053
+sa(dp2138
+g2
+S'Can you drive a car wearing a blindfold?'
+p2139
+sg4
+g2053
+sa(dp2140
+g2
+S'Can a backpack get a cold?'
+p2141
+sg4
+g2053
+sa(dp2142
+g2
+S'Can you stir something with a spoon?'
+p2143
+sg4
+g2053
+sa(dp2144
+g2
+S"Can you wear pajama's to school / work?"
+p2145
+sg4
+g2053
+sa(dp2146
+g2
+S'Can you jump over a puddle?'
+p2147
+sg4
+g2053
+sa(dp2148
+g2
+S'Can you eat tomato soup with a fork?'
+p2149
+sg4
+g2053
+sa(dp2150
+g2
+S'Can you keep a horse inside your house?'
+p2151
+sg4
+g2053
+sa(dp2152
+g2
+S'Can you see in the dark without a flashlight?'
+p2153
+sg4
+g2053
+sa(dp2154
+g2
+S'Can you buy eggs by the dozen?'
+p2155
+sg4
+g2053
+sa(dp2156
+g2
+S'Can you teach a cat to talk?'
+p2157
+sg4
+g2053
+sa(dp2158
+g2
+S'Can a tiger be your pet?'
+p2159
+sg4
+g2053
+sa(dp2160
+g2
+S'Can you rake leaves with a hammer?'
+p2161
+sg4
+g2053
+sa(dp2162
+g2
+S'Can you ride a camel?'
+p2163
+sg4
+g2053
+sa(dp2164
+g2
+S'Can you use a shovel at the beach?'
+p2165
+sg4
+g2053
+sa(dp2166
+g2
+S'Can you eat without a mouth?'
+p2167
+sg4
+g2053
+sa(dp2168
+g2
+S'Can a circle have corners?'
+p2169
+sg4
+g2053
+sa(dp2170
+g2
+S'Can a fish live out of water?'
+p2171
+sg4
+g2053
+sa(dp2172
+g2
+S'Can you rip concrete?'
+p2173
+sg4
+g2053
+sa(dp2174
+g2
+S'Can you wear a tie?'
+p2175
+sg4
+g2053
+sa(dp2176
+g2
+S'Can you drive a car without wearing a seatbelt?'
+p2177
+sg4
+g2053
+sa(dp2178
+g2
+S'Can you make bread without using flour?'
+p2179
+sg4
+g2053
+sa(dp2180
+g2
+S'Can you freeze orange juice?'
+p2181
+sg4
+g2053
+sa(dp2182
+g2
+S'Do new clothes get dirty?'
+p2183
+sg4
+g2053
+sa(dp2184
+g2
+S'Do babies need their diapers changed?'
+p2185
+sg4
+g2053
+sa(dp2186
+g2
+S'Do you get wet when you go swimming?'
+p2187
+sg4
+g2053
+sa(dp2188
+g2
+S'Does the sun make things hot?'
+p2189
+sg4
+g2053
+sa(dp2190
+g2
+S'Do you chew soup?'
+p2191
+sg4
+g2053
+sa(dp2192
+g2
+S'Do horses wear socks?'
+p2193
+sg4
+g2053
+sa(dp2194
+g2
+S'Do plants wear glasses?'
+p2195
+sg4
+g2053
+sa(dp2196
+g2
+S'Do cats climb trees?'
+p2197
+sg4
+g2053
+sa(dp2198
+g2
+S'Do you throw things in the garbage that are broken?'
+p2199
+sg4
+g2053
+sa(dp2200
+g2
+S'Do you use roller skates on the grass?'
+p2201
+sg4
+g2053
+sa(dp2202
+g2
+S'Do football players use sticks?'
+p2203
+sg4
+g2053
+sa(dp2204
+g2
+S'Do teachers help you learn?'
+p2205
+sg4
+g2053
+sa(dp2206
+g2
+S'Do baby birds get fed by their mother?'
+p2207
+sg4
+g2053
+sa(dp2208
+g2
+S'Does an orange have more juice than a banana?'
+p2209
+sg4
+g2053
+sa(dp2210
+g2
+S'Do windows need to be cleaned?'
+p2211
+sg4
+g2053
+sa(dp2212
+g2
+S'Do butterflies run fast?'
+p2213
+sg4
+g2053
+sa(dp2214
+g2
+S'Do pilots fly paper planes?'
+p2215
+sg4
+g2053
+sa(dp2216
+g2
+S'Does it snow during the summer?'
+p2217
+sg4
+g2053
+sa(dp2218
+g2
+S'Do we need our hands to play a musical instrument?'
+p2219
+sg4
+g2053
+sa(dp2220
+g2
+S'Do erasers remove pencil marks?'
+p2221
+sg4
+g2053
+sa(dp2222
+g2
+S'Do fire extinguishers help fireman?'
+p2223
+sg4
+g2053
+sa(dp2224
+g2
+S'Do children play with toys?'
+p2225
+sg4
+g2053
+sa(dp2226
+g2
+S"Does yogurt go bad if it isn't refrigerated?"
+p2227
+sg4
+g2053
+sa(dp2228
+g2
+S'Do we call a school if we have an emergency?'
+p2229
+sg4
+g2053
+sa(dp2230
+g2
+S'Do computers help us find information?'
+p2231
+sg4
+g2053
+sa(dp2232
+g2
+S'Do storms damage homes?'
+p2233
+sg4
+g2053
+sa(dp2234
+g2
+S'Does your birthday always happen on the same day?'
+p2235
+sg4
+g2053
+sa(dp2236
+g2
+S'Do astronauts work in grocery stores?'
+p2237
+sg4
+g2053
+sa(dp2238
+g2
+S'Do elephants live in the ocean?'
+p2239
+sg4
+g2053
+sa(dp2240
+g2
+S'Do cars have engines?'
+p2241
+sg4
+g2053
+sa(dp2242
+g2
+S'If you were a horse, could you gallup?'
+p2243
+sg4
+g2053
+sa(dp2244
+g2
+S'If you were a cat, would you have three legs?'
+p2245
+sg4
+g2053
+sa(dp2246
+g2
+S'If you were a bee, could you sing?'
+p2247
+sg4
+g2053
+sa(dp2248
+g2
+S'If you were a shark, would you eat fish?'
+p2249
+sg4
+g2053
+sa(dp2250
+g2
+S'If you break an egg, can you fix it?'
+p2251
+sg4
+g2053
+sa(dp2252
+g2
+S'If your bike has a flat tire, should you ride it?'
+p2253
+sg4
+g2053
+sa(dp2254
+g2
+S'If you were a fish, could you jump?'
+p2255
+sg4
+g2053
+sa(dp2256
+g2
+S'If you want to watch a movie, would you go to a bank?'
+p2257
+sg4
+g2053
+sa(dp2258
+g2
+S'If you were a builder, would you use a hammer?'
+p2259
+sg4
+g2053
+sa(dp2260
+g2
+S'If something is tasty, is it bad?'
+p2261
+sg4
+g2053
+sa(dp2262
+g2
+S'If there is snow on the ground, is it summer?'
+p2263
+sg4
+g2053
+sa(dp2264
+g2
+S'If you rip your shirt, would you staple it back together?'
+p2265
+sg4
+g2053
+sa(dp2266
+g2
+S'If you were an owner, would you have a pet?'
+p2267
+sg4
+g2053
+sa(dp2268
+g2
+S'If someone smiles, are they sad?'
+p2269
+sg4
+g2053
+sa(dp2270
+g2
+S'If it is June, is it hot in the North Pole?'
+p2271
+sg4
+g2053
+sa(dp2272
+g2
+S'If you have a bracelet, do you own jewelry?'
+p2273
+sg4
+g2053
+sa(dp2274
+g2
+S'If you were a computer, would you be alive?'
+p2275
+sg4
+g2053
+sa(dp2276
+g2
+S'If you were a bird, would you have fins?'
+p2277
+sg4
+g2053
+sa(dp2278
+g2
+S'If you have boiling water, is it hot?'
+p2279
+sg4
+g2053
+sa(dp2280
+g2
+S'If you went to a restaurant, would you see clowns?'
+p2281
+sg4
+g2053
+sa(dp2282
+g2
+S'If something is light, would it sink?'
+p2283
+sg4
+g2053
+sa(dp2284
+g2
+S'If you have a ball, can you play catch?'
+p2285
+sg4
+g2053
+sa(dp2286
+g2
+S'If something smells, does it stink?'
+p2287
+sg4
+g2053
+sa(dp2288
+g2
+S'If you were a caterpillar, would you have legs?'
+p2289
+sg4
+g2053
+sa(dp2290
+g2
+S'If you were rotten, would you smell nice?'
+p2291
+sg4
+g2053
+sa(dp2292
+g2
+S'If you have a pen and paper, can you write your name?'
+p2293
+sg4
+g2053
+sa(dp2294
+g2
+S'If you cut yourself really bad, should you go to the dentist?'
+p2295
+sg4
+g2053
+sa(dp2296
+g2
+S'If you were an ant, would you live in dirt?'
+p2297
+sg4
+g2053
+sa(dp2298
+g2
+S'If you were a chair, could you swim?'
+p2299
+sg4
+g2053
+sa(dp2300
+g2
+S'If you wanted to get warm, would you drink hot chocolate?'
+p2301
+sg4
+g2053
+sa(dp2302
+g2
+S'Is your arm bigger than your thigh?'
+p2303
+sg4
+g2053
+sa(dp2304
+g2
+S'Is twenty more than fifty?'
+p2305
+sg4
+g2053
+sa(dp2306
+g2
+S'Is a father older than his son?'
+p2307
+sg4
+g2053
+sa(dp2308
+g2
+S'Is half an apple less than one apple?'
+p2309
+sg4
+g2053
+sa(dp2310
+g2
+S'Is a pair of shoes more than one shoe?'
+p2311
+sg4
+g2053
+sa(dp2312
+g2
+S'Is a pair of socks less than three pairs?'
+p2313
+sg4
+g2053
+sa(dp2314
+g2
+S'Is a day longer than a week?'
+p2315
+sg4
+g2053
+sa(dp2316
+g2
+S'Is a month longer than an hour?'
+p2317
+sg4
+g2053
+sa(dp2318
+g2
+S'Is a year longer than six months?'
+p2319
+sg4
+g2053
+sa(dp2320
+g2
+S'Is thirty minutes shorter than one hour?'
+p2321
+sg4
+g2053
+sa(dp2322
+g2
+S'Is five dollars more than one hundred?'
+p2323
+sg4
+g2053
+sa(dp2324
+g2
+S'Is a mile longer than a football field?'
+p2325
+sg4
+g2053
+sa(dp2326
+g2
+S'Is whole less than a half?'
+p2327
+sg4
+g2053
+sa(dp2328
+g2
+S'Is one million a big number?'
+p2329
+sg4
+g2053
+sa(dp2330
+g2
+S'Is a car bigger than a person?'
+p2331
+sg4
+g2053
+sa(dp2332
+g2
+S'Is the moon hotter than the sun?'
+p2333
+sg4
+g2053
+sa(dp2334
+g2
+S'Is a clown funnier than a doctor?'
+p2335
+sg4
+g2053
+sa(dp2336
+g2
+S'Is 9:30 p.m. later than 3:30 p.m.?'
+p2337
+sg4
+g2053
+sa(dp2338
+g2
+S'Is a gallon less than a cup?'
+p2339
+sg4
+g2053
+sa(dp2340
+g2
+S'Is 50% higher than 48%?'
+p2341
+sg4
+g2053
+sa(dp2342
+g2
+S'Is New York City small?'
+p2343
+sg4
+g2053
+sa(dp2344
+g2
+S'Is a state bigger than a city?'
+p2345
+sg4
+g2053
+sa(dp2346
+g2
+S"Is it a doctor's job to save people?"
+p2347
+sg4
+g2053
+sa(dp2348
+g2
+S'Is building a house hard work?'
+p2349
+sg4
+g2053
+sa(dp2350
+g2
+S'Is a cow bigger than an elephant?'
+p2351
+sg4
+g2053
+sa(dp2352
+g2
+S'Is a hurricane dangerous?'
+p2353
+sg4
+g2053
+sa(dp2354
+g2
+S'Is a screwdriver a tool?'
+p2355
+sg4
+g2053
+sa(dp2356
+g2
+S'Is paper used to wash clothes?'
+p2357
+sg4
+g2053
+sa(dp2358
+g2
+S'Is a car faster than a bicycle?'
+p2359
+sg4
+g2053
+sa(dp2360
+g2
+S'Is a brick heavier than a feather?'
+p2361
+sg4
+g2053
+sa.
