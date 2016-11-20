@@ -29,11 +29,11 @@ HUM:gr	What
 HUM:ind	Who
 HUM:title	What
 HUM:desc	Who
-LOC:city	Unknown
-LOC:country	Unknown
-LOC:mount	Unknown
-LOC:other	Unknown
-LOC:state	Unknown
+LOC:city	What
+LOC:country	What
+LOC:mount	What
+LOC:other	What
+LOC:state	What
 NUM:code	What
 NUM:count	What
 NUM:date	When

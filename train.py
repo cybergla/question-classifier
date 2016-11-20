@@ -1,6 +1,7 @@
 import pickle
 import nltk
 from random import randint
+import naive
 
 with open("train_set.pkl",'r') as file:
 	train_set = pickle.load(file)
@@ -25,9 +26,8 @@ for item in train_set:
 	all_words.extend(item['ques'])
 
 freq_dist = nltk.FreqDist(all_words)
-freq_dist = freq_dist.most_common(1000)
+freq_dist = freq_dist.most_common(2000)
 word_features = [n[0] for n in freq_dist]
-
 
 junk_features = ["'s","''","``"] #remove those features we do not want
 for j in junk_features:
@@ -44,11 +44,12 @@ def extract_features(document):
     return features
 
 training_set = [(extract_features(item['ques']),item['label']) for item in train_set]
-classifier = nltk.NaiveBayesClassifier.train(training_set)
+#classifier = nltk.NaiveBayesClassifier.train(training_set)
+classifier = nltk.classify.NaiveBayesClassifier.train(training_set)
+test_set = [(extract_features(item['ques']),item['label']) for item in test_set]
+print nltk.classify.accuracy(classifier, test_set)
 
 while True:
 	ques = raw_input("Enter the question: ")
 	print classifier.classify(extract_features(ques.split()))
-#test_set = [(extract_features(item['ques']),item['label']) for item in test_set]
-#print nltk.classify.accuracy(classifier, test_set)
 
