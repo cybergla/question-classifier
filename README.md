@@ -17,7 +17,7 @@ The first challenge was to find a suitable dataset. The dataset linked to in the
 
 So my first task was to map these labels to the 4 categories I needed. I manually decided on a mapping based on my intuition and understanding. 
 
-For the `Affirmative` type of questions, I looked elsewhere on the internet and found a set of 155 "choice questions" (insert link). I interpreted the `Affirmative` type as a type of question with either a yes or no answer. I loaded those questions into the dataset with the others.
+For the `Affirmative` type of questions, I looked elsewhere on the internet and found a set of 155 ["choice questions"](http://www.home-speech-home.com/yes-or-no-questions.html). I interpreted the `Affirmative` type as a type of question with either a yes or no answer. I loaded those questions into the dataset with the others.
 
 # Preprocessing
 
