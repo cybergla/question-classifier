@@ -11,6 +11,13 @@ Any other type of question would be labelled "Unknown".
 
 I decided to approach the problem as that of classification, with the question types as labels. I decided to use a Naïve Bayes Classifier to build the model because of its popularity in text mining.
 
+# How to run
+Execute `python train.py`
+
+## Dependencies
+1. Python >= 2.7
+2. nltk
+
 # The Dataset
 
 The first challenge was to find a suitable dataset. The dataset linked to in the assignment instructions was that of the Cognitive Computation Group at UIUC. It was an excellent dataset with over 1000 labelled questions. However the class labels were different from the ones I needed. They were more detailed and were divided into multiple subcategories. Also the final category of questions `Affirmative` was not present at all.
