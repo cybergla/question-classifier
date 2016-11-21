@@ -10,6 +10,7 @@ def classify(ques):
 			return "Affirmation"
 	return "Unknown"
 
+#find the accuracy of the model given a test set.
 def find_accuracy(test_set):
 	count = 0
 	for sample in test_set:
