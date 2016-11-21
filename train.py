@@ -45,9 +45,13 @@ def extract_features(input_string):
         features['contains(%s)' % word] = (word in words)
     return features
 
+# Make the training set
 training_set = [(extract_features(item['ques']),item['label']) for item in train_set]
+# Train the model
 classifier = nltk.NaiveBayesClassifier.train(training_set)
+# make the test set
 test_set = [(extract_features(item['ques']),item['label']) for item in test_set]
+# classify the test set
 print nltk.classify.accuracy(classifier, test_set)
 
 #interactive shell to classify user questions. Press ctrl+C to exit 
