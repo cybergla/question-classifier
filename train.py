@@ -37,11 +37,12 @@ for j in junk_features:
 	except:
 		print "remove err"
 
-def extract_features(document):
-    document_words = set(document)
+#Extract the features from the given string
+def extract_features(input_string):
+    words = set(input_string)
     features = {}
     for word in word_features:
-        features['contains(%s)' % word] = (word in document_words)
+        features['contains(%s)' % word] = (word in words)
     return features
 
 training_set = [(extract_features(item['ques']),item['label']) for item in train_set]

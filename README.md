@@ -34,9 +34,9 @@ I then wrote an `extract_features()` function which would return a list of which
 
 # Testing
 
-To properly test whether the model was useful or not I had to create a benchmark. In `naive.py` I developed a naive method of classifying such quesitons. 
+To properly test whether the model was useful or not I had to create a benchmark. In `naive.py` I developed a naive method of classifying such questions. 
 
-1. A quesiton containing `who`, `what`, `when` would be classified accordingly.
+1. A question containing `who`, `what`, `when` would be classified accordingly.
 2. A question containing `"are","is","do","can","does"` were classified as `Affirmation`
 3. Rest were classified as `Unknown`.
 
@@ -47,4 +47,8 @@ This is obviously not a very good method  of classifying, but it at least gave m
 When I ran the testing set using the naive model, I got an accuracy of around 50%. When I used the Bayes Classified Model, I got an accuracy of around 60-65%, depending on the training set.
 
 It was a very modest improvement, but I'm confident that given more time to analyse the dataset and extract more relevant features, I can achieve better results. 
+
+One problem I encountered was that "What" type of questions overpopulated the training dataset. They skewed the training considerably.
+
+I could also have tried another type of classifier, such as a Decision Tree or a Multinomial Bayes Classifier which takes into account the number of occurences of a word.
 
